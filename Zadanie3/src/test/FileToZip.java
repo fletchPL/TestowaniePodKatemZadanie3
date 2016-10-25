@@ -14,28 +14,39 @@ public class FileToZip
 	FileToZip(String fileName, String zipName)
 	{
 		this.fileName = fileName;
-		this.zipName = zipName;
+		this.zipName = zipName + ".zip";
 	}
 	
 	public void ConvertToZip(FileToZip fileToZip) throws IOException
 	{
+		FileOutputStream fileOutputStream = null;
+		ZipOutputStream zipOutputStream = null;
+		FileInputStream fileInputStream = null;
+		
 		byte[] buffer = new byte[1024];
 		
 		try
 		{
-			FileOutputStream fileOutputStream = new FileOutputStream(fileToZip.zipName);
-			ZipOutputStream zipOutputStream = new ZipOutputStream(fileOutputStream);
+			fileOutputStream = new FileOutputStream(fileToZip.zipName);
+			zipOutputStream = new ZipOutputStream(fileOutputStream);
 			ZipEntry zipEntry = new ZipEntry(fileToZip.fileName);
 			
 			zipOutputStream.putNextEntry(zipEntry);
 			
-			FileInputStream fileInputStream = new FileInputStream(fileToZip.fileName);
+			fileInputStream = new FileInputStream(fileToZip.fileName);
 			
+			int len;
 			
+			while((len = fileInputStream.read(buffer)) >0)
+			{
+				zipOutputStream.write(buffer, 0, len);
+			}	
 		}
 		finally
 		{
-			
+			fileOutputStream.close();
+			fileInputStream.close();
+			zipOutputStream.close();	
 		}
 	}
 }
