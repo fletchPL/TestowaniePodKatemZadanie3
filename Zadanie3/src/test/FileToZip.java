@@ -49,4 +49,9 @@ public class FileToZip
 			zipOutputStream.close();	
 		}
 	}
+	
+	public void ZipToFile()
+	{
+		
+	}
 }
