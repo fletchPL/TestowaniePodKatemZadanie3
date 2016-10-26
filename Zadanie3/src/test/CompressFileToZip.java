@@ -17,7 +17,7 @@ public class CompressFileToZip
 		this.zipName = zipName + ".zip";
 	}
 	
-	public void Compress(CompressFileToZip fileToZip) throws IOException
+	public void Compress(CompressFileToZip file) throws IOException
 	{
 		FileOutputStream fileOutputStream = null;
 		ZipOutputStream zipOutputStream = null;
@@ -27,13 +27,13 @@ public class CompressFileToZip
 		
 		try
 		{
-			fileOutputStream = new FileOutputStream(fileToZip.zipName);
+			fileOutputStream = new FileOutputStream(file.zipName);
 			zipOutputStream = new ZipOutputStream(fileOutputStream);
-			ZipEntry zipEntry = new ZipEntry(fileToZip.fileName);
+			ZipEntry zipEntry = new ZipEntry(file.fileName);
 			
 			zipOutputStream.putNextEntry(zipEntry);
 			
-			fileInputStream = new FileInputStream(fileToZip.fileName);
+			fileInputStream = new FileInputStream(file.fileName);
 			
 			int len;
 			
