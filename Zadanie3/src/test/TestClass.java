@@ -13,15 +13,16 @@ public class TestClass
 
 	public static void main(String[] args) throws NoSuchProviderException, NoSuchAlgorithmException 
 	{
+		String message = "Moja wiadomoœæ jest bardzo fajna i d³uga";
 		SzyfrowanieASE szyfrowanie = new SzyfrowanieASE();
 		try {
-			szyfrowanie.szyfrowanie();
+			String pass = "key";
+			szyfrowanie.szyfrowanie(message,pass );
 		} catch (InvalidKeyException | NoSuchPaddingException | IllegalBlockSizeException | BadPaddingException e) {
-			// TODO Auto-generated catch block
+			
 			e.printStackTrace();
 		}
-		// TODO Auto-generated method stub
-
+		
 	}
 
 }
