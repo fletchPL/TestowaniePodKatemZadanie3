@@ -29,18 +29,11 @@ public class SzyfrowanieASE {
 		//byte[] rawKey = sKey.getEncoded();
  
 		SecretKeySpec sKeySpec = new SecretKeySpec(pass, "AES");
- 
-		
 		Cipher cipher = Cipher.getInstance("AES/ECB/PKCS5Padding");
- 
-		cipher.init(Cipher.ENCRYPT_MODE, sKeySpec);
- 
-		// zakodowana wiadomoœæ
-		byte[] encrypted = cipher.doFinal(input);
- 
-		cipher.init(Cipher.DECRYPT_MODE, sKeySpec);
-		// odkodowana wiadomosc
-		byte[] decrypted = cipher.doFinal(encrypted);
+		byte[] encrypted = encrypt(sKeySpec,input,cipher);
+		
+		byte[] decrypted = decrypted(sKeySpec, input, cipher,encrypted);
+		
  
 		print(input);
 		print(encrypted);
@@ -54,5 +47,25 @@ public class SzyfrowanieASE {
 		System.out.println(new String(b));
 		System.out.println("Length: " + b.length * 8);
 		System.out.println("---------------");
+	}
+	
+	public byte[] encrypt(SecretKeySpec sKeySpec,byte[] input,Cipher cipher) throws NoSuchAlgorithmException, NoSuchPaddingException, InvalidKeyException, IllegalBlockSizeException, BadPaddingException
+	{
+		
+		 cipher.init(Cipher.ENCRYPT_MODE, sKeySpec);
+ 
+		// zakodowana wiadomoœæ
+		byte[] encrypted = cipher.doFinal(input);
+		
+		return encrypted;
+	}
+	
+	public byte[] decrypted(SecretKeySpec sKeySpec,byte[] input,Cipher cipher,byte[]encrypted) throws InvalidKeyException, IllegalBlockSizeException, BadPaddingException
+	{
+		cipher.init(Cipher.DECRYPT_MODE, sKeySpec);
+		// odkodowana wiadomosc
+		byte[] decrypted = cipher.doFinal(encrypted);
+		
+		return decrypted;
 	}
 }
