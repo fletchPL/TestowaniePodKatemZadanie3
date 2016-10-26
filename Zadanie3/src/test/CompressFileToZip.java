@@ -6,18 +6,18 @@ import java.io.IOException;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipOutputStream;
 
-public class FileToZip 
+public class CompressFileToZip 
 {
 	String fileName = null;
 	String zipName = null;
 	
-	FileToZip(String fileName, String zipName)
+	CompressFileToZip(String fileName, String zipName)
 	{
 		this.fileName = fileName;
 		this.zipName = zipName + ".zip";
 	}
 	
-	public void ConvertToZip(FileToZip fileToZip) throws IOException
+	public void Compress(CompressFileToZip fileToZip) throws IOException
 	{
 		FileOutputStream fileOutputStream = null;
 		ZipOutputStream zipOutputStream = null;
@@ -48,10 +48,5 @@ public class FileToZip
 			fileInputStream.close();
 			zipOutputStream.close();	
 		}
-	}
-	
-	public void ZipToFile()
-	{
-		
 	}
 }
