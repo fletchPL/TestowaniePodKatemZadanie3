@@ -1,7 +1,13 @@
 package test;
 
+import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
 import java.security.NoSuchProviderException;
+
+import javax.crypto.BadPaddingException;
+import javax.crypto.IllegalBlockSizeException;
+import javax.crypto.NoSuchPaddingException;
+
 
 public class TestClass 
 {
@@ -11,14 +17,14 @@ public class TestClass
 		String message = "Moja wiadomoœæ jest bardzo fajna i d³uga";
 		SzyfrowanieASE szyfrowanie = new SzyfrowanieASE();
 		OpenFile of = new OpenFile();
-		of.openFile();
-		/*try {
+		String fileContent = of.openFile();
+		try {
 			String pass = "key";
-			//szyfrowanie.szyfrowanie(message,pass );
+			szyfrowanie.szyfrowanie(fileContent,pass );
 		} catch (InvalidKeyException | NoSuchPaddingException | IllegalBlockSizeException | BadPaddingException e) {
 			
 			e.printStackTrace();
-		}*/
+		}
 		
 	}
 
