@@ -26,29 +26,17 @@ public class SzyfrowanieASE {
 
 		SecretKeySpec sKeySpec = new SecretKeySpec(pass, "AES");
 		Cipher cipher = Cipher.getInstance("AES/ECB/PKCS5Padding");
-		System.out.println("Co chcesz zrobic ? \n 1)Szyfruj dane \n 2) Deszyfruj dane \n");
-		/*Scanner scan = new Scanner(System.in);
-		String choose = scan.nextLine();
-		int chooseAsInt = Integer.parseInt(choose);*/
+		//System.out.println("Co chcesz zrobic ? \n 1)Szyfruj dane \n 2) Deszyfruj dane \n");
+		
 
 		byte[] encrypted = encrypt(sKeySpec, input, cipher);
 		byte[] decrypted = decrypted(sKeySpec, input, cipher, encrypted);
-
+		
 		print(input);
 		print(encrypted);
 		print(decrypted);
 		System.out.println(Arrays.equals(input, decrypted));
-		/*switch (chooseAsInt) {
-		case 1:
-
-			
-			break;
-		case 2:
-
-			
-			break;
-		}*/
-
+		
 	}
 
 	public static void print(byte[] b) {

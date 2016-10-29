@@ -50,6 +50,17 @@ public class OpenFile {
 			}
 		}
 		scan.close();
+		Checksum checkMD5 = new Checksum();
+		try {
+			System.out.println("\n\n\n");
+			System.out.println("Checksum MD5");
+			System.out.println(checkMD5.getMD5Checksum(p.toString()));
+			System.out.println("\n\n\n");
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} 
+		
 		return everything;
 	}
 }

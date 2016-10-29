@@ -16,11 +16,13 @@ public class TestClass
 	{
 		String message = "Moja wiadomoœæ jest bardzo fajna i d³uga";
 		SzyfrowanieASE szyfrowanie = new SzyfrowanieASE();
+		
 		OpenFile of = new OpenFile();
 		String fileContent = of.openFile();
 		try {
 			String pass = "key";
 			szyfrowanie.szyfrowanie(fileContent,pass );
+			
 		} catch (InvalidKeyException | NoSuchPaddingException | IllegalBlockSizeException | BadPaddingException e) {
 			
 			e.printStackTrace();
