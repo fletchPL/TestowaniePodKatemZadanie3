@@ -1,7 +1,6 @@
 package test;
 
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
 import java.security.MessageDigest;
@@ -55,7 +54,7 @@ public class Checksum {
 	    for (int i = 0; i < mdbytes.length; i++) {
 	    	sb.append(Integer.toString((mdbytes[i] & 0xff) + 0x100, 16).substring(1));
 	    }
-	    
+	    fis.close();
 		return sb.toString();
 
 	}
