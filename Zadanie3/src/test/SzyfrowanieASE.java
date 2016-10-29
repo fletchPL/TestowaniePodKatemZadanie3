@@ -5,7 +5,6 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.NoSuchProviderException;
 import java.util.Arrays;
-import java.util.Scanner;
 
 import javax.crypto.BadPaddingException;
 import javax.crypto.Cipher;
@@ -26,9 +25,7 @@ public class SzyfrowanieASE {
 
 		SecretKeySpec sKeySpec = new SecretKeySpec(pass, "AES");
 		Cipher cipher = Cipher.getInstance("AES/ECB/PKCS5Padding");
-		//System.out.println("Co chcesz zrobic ? \n 1)Szyfruj dane \n 2) Deszyfruj dane \n");
 		
-
 		byte[] encrypted = encrypt(sKeySpec, input, cipher);
 		byte[] decrypted = decrypted(sKeySpec, input, cipher, encrypted);
 		
@@ -38,7 +35,7 @@ public class SzyfrowanieASE {
 		System.out.println(Arrays.equals(input, decrypted));
 		
 	}
-
+	
 	public static void print(byte[] b) {
 		System.out.println(new String(b));
 		System.out.println("Length: " + b.length * 8);
