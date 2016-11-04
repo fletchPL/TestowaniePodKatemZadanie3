@@ -4,6 +4,10 @@ import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+import library.CompressFileToZip;
+import library.DecompressZipToFiles;
+import library.FileDownload;
+
 public class TestClass 
 {
 

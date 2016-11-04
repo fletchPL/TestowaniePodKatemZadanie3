@@ -1,4 +1,4 @@
-package test;
+package library;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -11,7 +11,7 @@ public class FileDownload
 	URL url;
 	String fileName;
 	
-	FileDownload(URL url, String fileName)
+	public FileDownload(URL url, String fileName)
 	{
 		this.url = url;
 		this.fileName = fileName;	

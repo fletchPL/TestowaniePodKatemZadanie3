@@ -1,4 +1,4 @@
-package test;
+package library;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -12,7 +12,7 @@ public class CompressFileToZip
 	String fileName = null;
 	String zipName = null;
 	
-	CompressFileToZip(String fileName, String zipName)
+	public CompressFileToZip(String fileName, String zipName)
 	{
 		this.fileName = fileName;
 		this.zipName = zipName + ".zip";
