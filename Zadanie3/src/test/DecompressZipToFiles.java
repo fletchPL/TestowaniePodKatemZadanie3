@@ -18,53 +18,63 @@ public class DecompressZipToFiles
 		this.outputFolder = outputFolder;
 	}
 		
-	public void Decompress(DecompressZipToFiles zipFile) throws IOException
+	public void Decompress() throws IOException
 	{
-		byte[] buffer = new byte[1024];
-		
 		ZipInputStream zipInputStream = null;
-		ZipEntry zipEntry = null;
+		FileInputStream fileInputStream = null;
 		FileOutputStream fileOutputStream = null;
+		
+		byte[] buffer = new byte[1024];
 		
 		try
 		{
 			// Assign folder path, if does not exists, create it
-			File folder = new File(zipFile.outputFolder);
-			if(!folder.exists())
+			File zipFile = new File(this.zipName);
+			if(zipFile.exists())
 			{
-				folder.mkdir();
-			}
-			
-			// Open stream to read zip
-			zipInputStream = new ZipInputStream(new FileInputStream(zipFile.zipName));
-			zipEntry = zipInputStream.getNextEntry();
-			
-			// Read files from zip
-			while(zipEntry != null)
-			{
-				String fileName = zipEntry.getName();
-				File newFile = new File(zipFile.outputFolder + File.separator + fileName);
-				
-				System.out.println("File unzipped to: " + newFile.getAbsolutePath());
-				
-				new File(newFile.getParent()).mkdirs();
-				
-				fileOutputStream = new FileOutputStream(newFile);
-				
-				int len;
-				while((len = zipInputStream.read(buffer)) > 0)
+				File folder = new File(this.outputFolder);
+				if(!folder.exists())
 				{
-					fileOutputStream.write(buffer, 0, len);
+					folder.mkdir();
 				}
 				
-				fileOutputStream.close();
-				zipEntry = zipInputStream.getNextEntry();
+				// Open stream to read zip
+				fileInputStream = new FileInputStream(this.zipName);		
+				zipInputStream = new ZipInputStream(fileInputStream);
+				ZipEntry zipEntry = zipInputStream.getNextEntry();
+				
+				// Read files from zip
+				while(zipEntry != null)
+				{
+					String fileName = zipEntry.getName();
+					File newFile = new File(this.outputFolder + File.separator + fileName);
+					
+					System.out.println("File unzipped to: " + newFile.getAbsolutePath());
+					
+					new File(newFile.getParent()).mkdirs();
+					
+					fileOutputStream = new FileOutputStream(newFile);
+					
+					int len;
+					while((len = zipInputStream.read(buffer)) > 0)
+					{
+						fileOutputStream.write(buffer, 0, len);
+					}
+					
+					fileOutputStream.close();
+					zipEntry = zipInputStream.getNextEntry();
+				}
+				zipInputStream.closeEntry();
+				zipInputStream.close();
+			}
+			else
+			{
+				System.out.println("Zip file: " + this.zipName + ", does not exists");
 			}
 		}
 		finally
 		{
-			zipInputStream.closeEntry();
-			zipInputStream.close();
+			
 		}
 	}
 }

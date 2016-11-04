@@ -1,5 +1,6 @@
 package test;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -17,7 +18,7 @@ public class CompressFileToZip
 		this.zipName = zipName + ".zip";
 	}
 	
-	public void Compress(CompressFileToZip file) throws IOException
+	public void Compress() throws IOException
 	{
 		FileOutputStream fileOutputStream = null;
 		ZipOutputStream zipOutputStream = null;
@@ -27,26 +28,40 @@ public class CompressFileToZip
 		
 		try
 		{
-			fileOutputStream = new FileOutputStream(file.zipName);
-			zipOutputStream = new ZipOutputStream(fileOutputStream);
-			ZipEntry zipEntry = new ZipEntry(file.fileName);
-			
-			zipOutputStream.putNextEntry(zipEntry);
-			
-			fileInputStream = new FileInputStream(file.fileName);
-			
-			int len;
-			
-			while((len = fileInputStream.read(buffer)) >0)
+			File file = new File(this.fileName);
+			if(file.exists())
 			{
-				zipOutputStream.write(buffer, 0, len);
-			}	
+				fileOutputStream = new FileOutputStream(this.zipName);
+				zipOutputStream = new ZipOutputStream(fileOutputStream);
+				ZipEntry zipEntry = new ZipEntry(this.fileName);
+				
+				zipOutputStream.putNextEntry(zipEntry);
+				
+				fileInputStream = new FileInputStream(this.fileName);
+				
+				int len = 0;
+				
+				while((len = fileInputStream.read(buffer)) > 0)
+				{
+					zipOutputStream.write(buffer, 0, len);
+				}
+				zipOutputStream.closeEntry();
+				zipOutputStream.close();
+				
+				fileOutputStream.close();
+				fileInputStream.close();
+				
+				System.out.println("File " + this.fileName + ", was compressed to zip file: " + this.zipName);
+			}
+			else
+			{
+				System.out.println("File: " + this.fileName + ", does not exists");
+			}
 		}
 		finally
 		{
-			fileOutputStream.close();
-			fileInputStream.close();
-			zipOutputStream.close();	
+
+
 		}
 	}
 }
