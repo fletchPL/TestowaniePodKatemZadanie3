@@ -1,13 +1,31 @@
 package test;
 
 import java.io.IOException;
+import java.net.MalformedURLException;
+import java.net.URL;
 
 public class TestClass 
 {
 
 	public static void main(String[] args) 
 	{
-		//FileDownload fileDownload = new FileDownload(url, fileName);
+		
+		URL url;
+		try 
+		{
+			url = new URL("http://www.wp.pl");
+			FileDownload fileDownload = new FileDownload(url, "Plik1.txt");
+			fileDownload.Download();
+		} 
+		catch (MalformedURLException e) 
+		{
+			e.printStackTrace();
+		}
+		catch(IOException e1)
+		{
+			e1.printStackTrace();
+		}
+		
 		CompressFileToZip compressFileToZip = new CompressFileToZip("Plik1.txt", "Zip1");		
 		DecompressZipToFiles decompressFileToZip = new DecompressZipToFiles("Zip1.zip", "Folder");
 		

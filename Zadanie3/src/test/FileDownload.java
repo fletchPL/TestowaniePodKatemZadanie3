@@ -14,29 +14,20 @@ public class FileDownload
 	FileDownload(URL url, String fileName)
 	{
 		this.url = url;
-		this.fileName = fileName;
-		
-		try 
-		{
-			Download(this);
-		} 
-		catch (IOException e) 
-		{
-			e.printStackTrace();
-		}
+		this.fileName = fileName;	
 	}
 
-	private void Download(FileDownload fileDownload) throws IOException
+	public void Download() throws IOException
 	{
 		InputStream inputStream = null;
 		FileOutputStream fileOutputStream = null;
 		
 		try
 		{
-			URLConnection urlConnection = fileDownload.url.openConnection();
+			URLConnection urlConnection = this.url.openConnection();
 			
 			inputStream = urlConnection.getInputStream();
-			fileOutputStream = new FileOutputStream(fileDownload.fileName);
+			fileOutputStream = new FileOutputStream(this.fileName);
 			
 			byte[] buffer = new byte[4096];
 			int len;
