@@ -3,6 +3,7 @@ package test;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.util.Scanner;
 
 import library.CompressFileToZip;
 import library.DecompressZipToFiles;
@@ -12,9 +13,20 @@ public class TestClass
 {
 	public static void main(String[] args) 
 	{
-		
-		TestDamian();
-		TestMaciej();
+		while(true)
+		{
+			System.out.println("Wybierz test\n1-Damian\n2-Maciej\n3-Wyjdz");
+			Scanner scan = new Scanner(System.in);
+			String choice = scan.nextLine();
+			
+			switch(choice)
+			{
+				case "1" : TestDamian(); break;
+				case "2" : TestMaciej(); break;
+				case "3" : System.exit(1);
+				default  : System.out.println("Nie ma takiej opcji"); break;
+			}	
+		}
 	}
 	
 	private static void TestMaciej() 
