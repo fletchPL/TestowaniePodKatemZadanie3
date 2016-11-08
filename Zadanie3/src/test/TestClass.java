@@ -33,7 +33,9 @@ public class TestClass
 				case "3" : System.exit(1);
 				default  : System.out.println("Nie ma takiej opcji"); break;
 			}	
+			scan.close();
 		}
+		
 	}
 	
 	private static void TestMaciej() throws Exception, Exception 
@@ -52,6 +54,7 @@ public class TestClass
 			
 			e.printStackTrace();
 		}
+		scan.close();
 	}
 
 	public static void TestDamian()
