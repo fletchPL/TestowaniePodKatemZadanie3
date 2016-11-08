@@ -1,4 +1,4 @@
-package test;
+package szyfrowanie;
 
 import java.io.FileInputStream;
 import java.io.IOException;

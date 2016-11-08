@@ -9,6 +9,9 @@ import javax.crypto.BadPaddingException;
 import javax.crypto.IllegalBlockSizeException;
 import javax.crypto.NoSuchPaddingException;
 
+import szyfrowanie.OpenFile;
+import szyfrowanie.SzyfrowanieASE;
+
 
 public class TestClass 
 {

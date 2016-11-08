@@ -1,4 +1,4 @@
-package test;
+package szyfrowanie;
 
 import java.io.BufferedReader;
 import java.io.File;

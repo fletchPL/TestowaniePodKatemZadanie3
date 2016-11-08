@@ -1,10 +1,11 @@
-package test;
+package szyfrowanie;
 
 import java.security.InvalidKeyException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.NoSuchProviderException;
 import java.util.Arrays;
+import java.util.Scanner;
 
 import javax.crypto.BadPaddingException;
 import javax.crypto.Cipher;
@@ -28,7 +29,17 @@ public class SzyfrowanieASE {
 		
 		byte[] encrypted = encrypt(sKeySpec, input, cipher);
 		byte[] decrypted = decrypted(sKeySpec, input, cipher, encrypted);
-		
+		System.out.println("co chcesz zrobic \n 1) szyfrowanie \n 2) deszyfrowanie");
+		//Scanner scan = new Scanner(System.in);
+		String wybor = "1";
+		switch(wybor)
+		{
+		case "1":
+			System.out.println("hello");
+			break;
+		case "2":
+			break;
+		}
 		print(input);
 		print(encrypted);
 		print(decrypted);
