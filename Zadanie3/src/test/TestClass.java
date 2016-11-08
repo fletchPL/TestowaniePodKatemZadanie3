@@ -20,12 +20,13 @@ public class TestClass
 {
 	public static void main(String[] args) throws Exception 
 	{
+		Scanner scan = null;
 		while(true)
 		{
 			System.out.println("Wybierz test\n1-Damian\n2-Maciej\n3-Wyjdz");
-			Scanner scan = new Scanner(System.in);
-			String choice = scan.nextLine();
-			
+			scan = new Scanner(System.in);
+			String choice = scan.next();
+			//scan.close();
 			switch(choice)
 			{
 				case "1" : TestDamian(); break;
@@ -33,9 +34,8 @@ public class TestClass
 				case "3" : System.exit(1);
 				default  : System.out.println("Nie ma takiej opcji"); break;
 			}	
-			scan.close();
+			
 		}
-		
 	}
 	
 	private static void TestMaciej() throws Exception, Exception 
@@ -54,7 +54,6 @@ public class TestClass
 			
 			e.printStackTrace();
 		}
-		scan.close();
 	}
 
 	public static void TestDamian()
