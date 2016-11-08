@@ -3,11 +3,20 @@ package test;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
+import java.security.InvalidKeyException;
+import java.security.NoSuchAlgorithmException;
+import java.security.NoSuchProviderException;
 import java.util.Scanner;
+
+import javax.crypto.BadPaddingException;
+import javax.crypto.IllegalBlockSizeException;
+import javax.crypto.NoSuchPaddingException;
 
 import library.CompressFileToZip;
 import library.DecompressZipToFiles;
 import library.FileDownload;
+import szyfrowanie.OpenFile;
+import szyfrowanie.SzyfrowanieASE;
 
 public class TestClass 
 {
@@ -29,9 +38,22 @@ public class TestClass
 		}
 	}
 	
-	private static void TestMaciej() 
+	private static void TestMaciej() throws Exception, Exception 
 	{
-		
+		SzyfrowanieASE szyfrowanie = new SzyfrowanieASE();
+		System.out.println("Podaj klucz: ");
+		Scanner scan = new Scanner(System.in);
+		String pass = scan.nextLine();
+		OpenFile of = new OpenFile();
+		String fileContent = of.openFile();
+		try {
+			
+			szyfrowanie.szyfrowanie(fileContent,pass );
+			
+		} catch (InvalidKeyException | NoSuchPaddingException | IllegalBlockSizeException | BadPaddingException e) {
+			
+			e.printStackTrace();
+		}
 	}
 
 	public static void TestDamian()
