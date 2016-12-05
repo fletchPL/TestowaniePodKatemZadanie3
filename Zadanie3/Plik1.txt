@@ -1,0 +1,2738 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="pl"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="pl"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="pl" xmlns:fb="http://www.facebook.com/2008/fbml"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="pl"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="pl"> <!--<![endif]-->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>Mobilna INTERIA.PL</title>
+<!--GT3.2-->
+<script>
+function pp_gemius_loaded(){window.GEMIUS_LOADED=true;}
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = "bV07YsMAFMfN_qj611DeIMPJfSV_aOLiHd_CKrwKn7b.N7";
+function gemius_pending(i) { window[i] = window[i] || function() {var x = window[i+"_pdata"] = window[i+"_pdata"] || []; x[x.length]=arguments;};};
+gemius_pending("gemius_hit"); gemius_pending("gemius_event"); gemius_pending("pp_gemius_hit"); gemius_pending("pp_gemius_event");
+(function(d,t) {try{ var s=d.getElementsByTagName(t)[0],l="http"+((location.protocol=="https:")?"s":"");
+var add=function(ohost, clb){ var gt=d.createElement(t),h=(ohost?"//iwa.iplsc.com/sweqevub.js":"//iwa.iplsc.com/xgemius.js?v=3");
+gt.setAttribute("async","async"); gt.setAttribute("defer","defer"); gt.src=l+":"+h; s.parentNode.insertBefore(gt,s);
+if (clb && gt.addEventListener) gt.addEventListener("er"+"r"+"or", clb, false); else if (clb && gt.attachEvent) gt.attachEvent("on"+"er"+"r"+"or", clb); };
+add(0, function(){add(1);});} catch (e) {}})(document,"script");
+var __iwa = __iwa || []; __iwa.push( ["setCustomVar","gemius_hg","1", "page"] );
+//--><!]]>
+</script><script>!function(a){a._gaq=a._gaq||[];var b=a._gaq;b.push=function(){var a=Array.prototype.slice.call(arguments);a.forEach(function(a){var b=a[0],c=a[1]?a[1]:null,d=a[2]?a[2]:null,e=a[3]?a[3]:null,f=a[4]?a[4]:null,g=a[5]?{nonInteraction:1}:null,h=!1;b.indexOf!=-1&&(h=b.split(".")[0],b=b.split(".")[1]);var i="b"==h?"service":"portal";"_trackEvent"==b?ga(i+".send",{hitType:"event",eventCategory:c,eventAction:d,eventLabel:e,eventValue:f,nonInteraction:g}):"_trackSocial"==b&&ga(i+".send",{hitType:"social",socialNetwork:c,socialAction:d,socialTarget:e})})}}(window);</script><!-- Google Analytics (Universal Analytics) --><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create', 'UA-3530215-5', 'auto', 'portal', {'cookieDomain': 'interia.pl', 'legacyCookieDomain': 'interia.pl', 'legacyHistoryImport': true });ga('portal.send', 'pageview', location.pathname );ga('create', 'UA-2545960-26', 'auto', 'service');ga('service.require', 'displayfeatures');ga('service.send', 'pageview', location.pathname );</script><!-- End Google Analytics --><!--/GT3.2--><!-- IWA -->
+<script>(function(i,n,t,e,r,j,a){i['IWAObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)};j=n.createElement(t),a=n.getElementsByTagName(t)[0];j.async=1;l='http'+((location.protocol=='https:')?'s:':':');j.src=l+e;a.parentNode.insertBefore(j,a)})(window,document,'script','//iwa.iplsc.com/iwa.sync.js','iwa');iwa('create', 3);iwa("plugin","register","pageheight",{"pageHeightVar":"pageheight"});iwa("plugin","register","scroll",{"scrollToVar":"scroll"});iwa("plugin","register","performance",{"unloadEvent":"p_unload_evt","redirect":"p_redirect","domainLookup":"p_domain_lookup","connect":"p_connect","request":"p_request","response":"p_response","parse":"p_parse","domContentLoaded":"p_dom_cnt_load","domContentLoadedEvent":"p_dom_cnt_load_evt","pageload":"p_load","pageloadEvent":"p_load_evt"});iwa("plugin","register","timeSpent",{"unit":"seconds"});iwa('send', 'pageview');</script>
+<!-- End IWA --><script>
+(function(a,d,b,l,o,c,k){
+a.Inpl=a.Inpl||{};a.Inpl[o]=a.Inpl[o]||{};a.Inpl[o].q=[];
+function p(f){a.Inpl[o].q.push(f);}
+var fn=["onDetected","onNotDetected","onDetectFail","setCollector"];
+for(var m in fn){(function(f){Inpl[o][f]=function(){Array.prototype.unshift.call(arguments,f);p(arguments);}})(fn[m])};
+c=d.createElement(b);k=d.getElementsByTagName(b)[0];var sch="http"+((location.protocol=="https:")?"s:":":");c.src=sch+l;k.parentNode.insertBefore(c,k);
+Inpl.Adb.getResult=function(){var c,d,a="__adb_st"+"=",b=document.cookie.split(";"),e=b.length;for(c=0;c<e;c+=1){for(d=b[c];" "===d.charAt(0);)d=d.substring(1);if(d.indexOf(a)!==-1)return d.substring(a.length,d.length)}return "-1"};
+Inpl.Adb.setCollector("fac.interia.pl")
+})(window,document,"script","//js.iplsc.com/inpl.adb/1.0.17/inpl.adb.js","Adb");
+</script>
+<script src="http://js.iplsc.com/inpl.measure/1.0.8/inpl.measure.js" async></script><script>
+iwa('clickMap', undefined, { fixUrl : false});
+</script>
+
+<link href="//iwa.iplsc.com" rel="dns-prefetch" >
+<link href="//interia.hit.gemius.pl" rel="dns-prefetch" >
+<link href="//ls.hit.gemius.pl" rel="dns-prefetch" >
+<link href="//iwa.hit.interia.pl" rel="dns-prefetch" >
+<link href="//stats.g.doubleclick.net" rel="dns-prefetch" >
+<link href="//w.iplsc.com" rel="dns-prefetch" >
+<link href="//hub.com.pl" rel="dns-prefetch" >
+<link href="//interiaao.hit.gemius.pl" rel="dns-prefetch" >
+<link href="//i.hub.com.pl" rel="dns-prefetch" >
+<link href="//i.iplsc.com" rel="dns-prefetch" >
+<link href="//d.iplsc.com" rel="dns-prefetch" >
+<link href="//ec.hub2.com.pl" rel="dns-prefetch" >
+<link href="//img.interia.pl" rel="dns-prefetch" >
+<link href="//mk-zl.interia.pl" rel="dns-prefetch" >
+<link href="/s/css.308e1fb3836ac9c5c448c0b7e9ac57ef.min.css" media="all" rel="stylesheet" type="text/css" >
+<link href="/s/favicon_114x114.png?v=1" rel="apple-touch-icon-precomposed" sizes="114x114" >
+<link href="/s/favicon_72x72.png?v=1" rel="apple-touch-icon-precomposed" sizes="72x72" >
+<link href="/s/favicon_57x57.png?v=1" rel="apple-touch-icon-precomposed" >
+<link href="/manifest.json" rel="manifest" type="application/json" >
+<meta property="fb:app_id" content="438577716225831" />
+<meta http-equiv="cleartype" content="on">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<script type="text/javascript">
+    //<!--
+
+window.wl="l";window.wsid=1173;window.kAds=true;    //-->
+</script>
+<script type="text/javascript" src="http://w.iplsc.com/internal/inpl.klmcounter/1.0.9/inpl.klmcounter.js"></script>
+<script type="text/javascript" src="/j/tile-advertisement-f5798928fe274aa87331fc9f4863dc63.js"></script>
+<script type="text/javascript" src="http://js.iplsc.com/inpl.intad/1.0.48/inpl.intad.js"></script>
+<script type="text/javascript">
+    //<!--
+
+(function (l, o, g) {
+l.Inpl = l.Inpl || {};
+l.Inpl.Log = l.Inpl.Log || {};
+var Log = l.Inpl.Log;
+Log.NOTICE = 'notice';
+Log.WARN = 'warn';
+Log['ER' +'ROR'] = 'er'+'ror';
+Log.INFO = 'info';
+Log.partSize = 4;
+Log.__queue = [];
+var methods = ['init','onE'+'rror', 'log'];
+for (var i in methods) {
+if (methods.hasOwnProperty(i)) {
+(function (f) {
+l.Inpl.Log[f] = function () {
+var args = Array.prototype.slice.call(arguments);
+Array.prototype.unshift.call(args, f);
+l.Inpl.Log.__queue.push(args);
+}
+})(methods[i]);
+}
+}
+if (o) {
+
+var lib = document.createElement('script');
+lib.src = o ;
+document.head.appendChild(lib);
+}
+l['one'+'rror'] = function () {
+var args = Array.prototype.slice.call(arguments);
+l.Inpl.Log['onE'+'rror'].apply(Log, args);
+
+};
+Log.init();
+
+
+
+})(window, '//js.iplsc.com/inpl.log/1.0.12/inpl.log.js');    //-->
+</script>
+
+<!-- AdServer CID: INTERIA/m_interia PID: main -->
+<script type="text/javascript">
+<!-- <![CDATA[
+Inpl.Ad.enablePlugin('NetsprintAudience', {"collectData":"0"}); 
+Inpl.Ad.enablePlugin('Adb'); 
+if(location.protocol.substr(0,4)=='http')document.write(unescape('%3C')+'script id="INTERIA.PL.KOMUNIKACJA.m_interia.main" src="'+location.protocol+'//hub.com.pl/_'+(new Date()).getTime()+'/ad.js?id=TrNL5sZTm.G3a331.17KKFzyXYJmVcbhBVcIYLdLv4T.d7/x='+screen.width+'/y='+screen.height+((window.Inpl && Inpl.Ad) ? Inpl.Ad.getKeywords("/key="):"")+'" type="text/javascript"'+unescape('%3E%3C')+'/script'+unescape('%3E'));
+// ]]> -->
+</script><script type="text/javascript">
+<!-- <![CDATA[
+(function(g){
+var I=g.Inpl=g.Inpl||{};
+I.Ad=I.Ad||{};
+I.Ad.isAd=I.Ad.isAd||function(){};
+I.Ad.insertAd=I.Ad.insertAd||function(){};
+I.Ad.getKeywords=I.Ad.getKeywords||function(){};
+I.Ad.init && I.Ad.init({'m_gora_srodek':'adoceanhubzgekfrlrkz','m_dol_srodek':'adoceanhubwhlqiofgey','art_spons_fakty':'adoceanhubwjdreqemci','art_spons_biznes':'adoceanhubtkkhinoqmd','art_spons_sport':'adoceanhubnmiepxrjqx','art_spons_motoryzacja':'adoceanhubknpkcvlols','art_spons_nt':'adoceanhubxngrfsftvn','art_spons_rozrywka':'adoceanhubuonhjpphpm','art_spons_gry':'adoceanhubxjcojlgncl','banner_biznes':'adoceanhubukjeniqrmg','banner_fakty':'adoceanhubrlqkqvjgvf','banner_gry':'adoceanhubomhrdtdlba','banner_motoryzacja':'adoceanhublnohhqnplv','banner_najczesciej_czytane':'adoceanhubynfoknhuvq','banner_nt':'adoceanhubvomeokripp','banner_sport':'adoceanhubspdlbilnvk','banner_interia_poleca':'adoceanhubngrffvggut','banner_kobieta_mezczyzna':'adoceanhubkhimisqkeo','banner_muzyka_film_tv':'adoceanhubxhpslpkpdj','banner_plotki':'adoceanhubuigjpmeuje','banner_warto_zobaczyc':'adoceanhubrjnpckoidd','banner_app':'adoceanhubxnpghxogwn','box_ec':'adoceanhubrbhklifnnn','box_ec2':'adoceanhubyidnpojtus','box_ec3':'adoceanhubvjktcmdizr','m_rectangle':'adoceanhubopmgbonrhu','art_spons_kobieta':'adoceanhubkagobpkurs','m_halfpage':'adoceanhubwaerhvifzo','karuzela_zakladka':'adoceanhubneilivgfrj','promocyjni_gazetka_dol':'adoceanhubqarqpxdlqk','m_maintopic':'adoceanhubpckookqjft'});
+if(location.hash.indexOf('#inpltesterad')>-1&&location.hash.replace(/[^0-9a-z=]/g,"").length==45){document.write(unescape('%3C')+'script id="kodmaster" src="http://reklama.interia.pl/testuj/inpltester?'+location.hash.replace(/[^0-9a-z=]/g,"")+'" type="text/javascript"'+unescape('%3E%3C')+'/script'+unescape('%3E'));}
+})(window);
+// ]]> -->
+</script>
+<!--[if lt IE 9]><script src="//w.iplsc.com/external/html5shiv/3.5.0/html5shiv.js"></script><![endif]-->
+<!--[if IE]><script type="text/javascript" src="//w.iplsc.com/external/xui/2.3.2/xui-ie.js"></script><![endif]-->
+<!--[if !IE]><!--><script type="text/javascript" src="//w.iplsc.com/external/xui/2.3.2/xui.js"></script><!--<![endif]-->
+<script>
+(function(document){
+	if (document.cookie.indexOf("cpol") >= 0) {
+		document.write('<meta name="apple-itunes-app" content="app-id=548261668"/>');
+	}
+})(document);
+</script>
+</head>
+<body class="logo-standard main v1 front-page" data-iwa-block="default">
+<div class="gemius">
+<script>var gemius_identifier = "16BL0mNhdDsZVt4LmCu6HMeCfbtkSobkKesSN5yk7vH.L7"; </script><script src="http://iwa.iplsc.com/gemius.js?v=3"></script></div>
+
+
+<script type="text/javascript">//<![CDATA[
+
+x$(window).on('load', function(){
+(function(){
+try {
+var b = document.getElementsByTagName("html")[0];
+if( 'undefined' != typeof b.classList ) { b.classList.remove('no-js'); }
+else { b.className = b.className.toString().replace('no-js',''); }
+} catch(e){}
+})();});
+//]]></script>
+
+    <div class="container">
+
+                    <div class="page-header">
+                <div class="logo-standard-header">
+     <header id="header">
+    <section class="header-section" data-iwa-block="header">
+        <h1><a href="/" class="interia-logo"><img src="/i/interia-logo-hd.png" alt="Mobilna INTERIA.PL" width="109" height="28"/></a></h1>
+        <a href="//poczta.interia.pl" class="webmail" data-iwa-item="1" data-iwa-hash="28057">Poczta</a>
+        <a href="#" class="main-menu-button" id="main-menu-switch" data-iwa-item="2" data-iwa-hash="33617" >Serwisy</a>
+    </section>
+    </header>
+</div>
+<div class="main-menu" id="main-menu"  data-iwa-block="header_side_menu">
+    <section class="menu-section">
+        <nav class="widgets">
+                                <a href="/horoskop" class="menu-link horoskop"  data-iwa-item="1" data-iwa-hash="80978" >Horoskop</a>
+                                <a href="/kina" class="menu-link kino"  data-iwa-item="2" data-iwa-hash="39529" >Kina</a>
+                                <a href="/gielda" class="menu-link notowania"  data-iwa-item="3" data-iwa-hash="48214" >Notowania</a>
+                                <a href="/waluty" class="menu-link waluty"  data-iwa-item="4" data-iwa-hash="11636" >Waluty</a>
+                                <a href="/pogoda" class="menu-link pogoda"  data-iwa-item="5" data-iwa-hash="20206" >Pogoda</a>
+                                <a href="/wyniki/rozgrywki/najwazniejsze" class="menu-link wyniki"  data-iwa-item="6" data-iwa-hash="36129" >EKSTRAKLASA: WYNIKI</a>
+                                <a href="/na-zywo/zapowiedzi" class="menu-link relacje"  data-iwa-item="7" data-iwa-hash="38143" >Na żywo</a>
+                                <a href="/lotto" class="menu-link lotto"  data-iwa-item="8" data-iwa-hash="42573" >Lotto</a>
+                                <a href="/program-tv/teraz" class="menu-link tv"  data-iwa-item="9" data-iwa-hash="23566" >Program TV</a>
+                                <a href="/teletydzien/teraz" class="menu-link tv"  data-iwa-item="10" data-iwa-hash="26426" >Teletydzień</a>
+                </nav>
+
+        <nav class="services">
+                                <a href="/" class="menu-link "  data-iwa-item="11" data-iwa-hash="27446">Strona główna</a>
+                                <a href="http://fakty.interia.pl/" class="menu-link "  data-iwa-item="12" data-iwa-hash="30201">Fakty</a>
+                                <a href="/biznes" class="menu-link "  data-iwa-item="13" data-iwa-hash="40305">Biznes</a>
+                                <a href="http://sport.interia.pl/" class="menu-link "  data-iwa-item="14" data-iwa-hash="36787">Sport</a>
+                                <a href="/zkarnego" class="menu-link "  data-iwa-item="15" data-iwa-hash="13985">Z karnego</a>
+                                <a href="http://m.interia.pl/serwis/forum/" class="menu-link "  data-iwa-item="16" data-iwa-hash="11562">Forum</a>
+                                <a href="/motoryzacja" class="menu-link "  data-iwa-item="17" data-iwa-hash="20494">Motoryzacja</a>
+                                <a href="/magazynauto" class="menu-link "  data-iwa-item="18" data-iwa-hash="17776">Magazynauto</a>
+                                <a href="/raportdrogowy" class="menu-link "  data-iwa-item="19" data-iwa-hash="20056">Raport drogowy</a>
+                                <a href="/poboczem" class="menu-link "  data-iwa-item="20" data-iwa-hash="12221">Poboczem</a>
+                                <a href="http://nt.interia.pl/" class="menu-link "  data-iwa-item="21" data-iwa-hash="30655">Nowe technologie</a>
+                                <a href="/interia-tv" class="menu-link "  data-iwa-item="22" data-iwa-hash="36793">Interia.TV</a>
+                                <a href="http://mobtech.interia.pl/" class="menu-link "  data-iwa-item="23" data-iwa-hash="85507">Mobtech</a>
+                                <a href="http://gry.interia.pl/" class="menu-link "  data-iwa-item="24" data-iwa-hash="31921">Gry</a>
+                                <a href="http://strefagier.m.interia.pl/" class="menu-link "  data-iwa-item="25" data-iwa-hash="29357">Graj on-line</a>
+                                <a href="http://m.gry-na-fony.pl/" class="menu-link "  data-iwa-item="26" data-iwa-hash="25123">Gry na fony</a>
+                                <a href="http://muzyka.interia.pl/" class="menu-link "  data-iwa-item="27" data-iwa-hash="34922">Muzyka</a>
+                                <a href="http://film.interia.pl/" class="menu-link "  data-iwa-item="28" data-iwa-hash="57816">Film</a>
+                                <a href="//swiatseriali.interia.pl" class="menu-link "  data-iwa-item="29" data-iwa-hash="24786">Świat Seriali</a>
+                                <a href="http://kobieta.interia.pl/" class="menu-link "  data-iwa-item="30" data-iwa-hash="31019">Kobieta</a>
+                                <a href="//www.styl.pl/" class="menu-link "  data-iwa-item="31" data-iwa-hash="30181">Styl</a>
+                                <a href="http://mamdziecko.interia.pl/" class="menu-link "  data-iwa-item="32" data-iwa-hash="10765">Mam dziecko</a>
+                                <a href="/nowa-historia" class="menu-link "  data-iwa-item="33" data-iwa-hash="16008">Nowa historia</a>
+                                <a href="/dzikikraj" class="menu-link "  data-iwa-item="34" data-iwa-hash="35511">Dziki kraj</a>
+                                <a href="http://www.pomponik.pl/" class="menu-link "  data-iwa-item="35" data-iwa-hash="13265">Pomponik</a>
+                                <a href="/innowacje" class="menu-link "  data-iwa-item="36" data-iwa-hash="13967">Innowacje</a>
+                                <a href="http://polska2041.pl" class="menu-link "  data-iwa-item="37" data-iwa-hash="35124">Polska2041</a>
+                                <a href="http://facet.interia.pl/" class="menu-link "  data-iwa-item="38" data-iwa-hash="25412">Facet</a>
+                </nav>
+
+        <nav class="social" id="menu-social">
+        </nav>
+    </section>
+</div>
+
+            </div>
+        
+        <div class="main">
+                            <div class="main-special">
+                        <div class="adplace" id="m_gora_srodek1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("m_gora_srodek");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('m_gora_srodek')) {
+document.getElementById('m_gora_srodek1').style.display='';
+}
+else {
+document.getElementById('m_gora_srodek1').style.display='none';
+}
+//]]></script>                                    </div>
+            
+                            <div class="main-content">
+                                <div class="box news-list-tile news-special">
+            <h2 class="box-header">
+                <span class="service-link active"><span class="close isOpened"></span></span>
+                <span class="service-link"><span>Polecane</span></span>
+            </h2>
+            <div class="container">
+                <div class="tile-wrap" data-iwa-block="special-news">
+                    <ul class="tile-entries">
+                                                                                <li class="tile-entries-item i-0" data-iwa-item="1" data-iwa-hash="40855">
+                                <a class="tile-entries-link"
+                                   href="http://fakty.interia.pl/polska/news-apel-dzialaczy-opozycji-w-prl-chodzi-o-ustawe-o-zgromadzenia,nId,2317353">
+                                    <ins class="tile-entries-thumb">
+                                                                                    <img class="tile-entries-img" src="http://i.iplsc.com/-/00066PHF0NCRUY9D-C450.jpg"
+                                                 alt="Działacze opozycji w PRL apelują do polskich władz">
+                                                                            </ins>
+                                    <span class="tile-entries-title">Działacze opozycji w PRL apelują do polskich władz</span>
+                                </a>
+                            </li>
+                                                                                <li class="tile-entries-item i-1" data-iwa-item="2" data-iwa-hash="14293">
+                                <a class="tile-entries-link"
+                                   href="http://www.pomponik.pl/plotki/news-doda-znowu-przed-sadem-grozi-jej-piec-lat-wiezienia,nId,2317182">
+                                    <ins class="tile-entries-thumb">
+                                                                                    <img class="tile-entries-img" src="http://i.iplsc.com/-/00066OA9OYS7J68M-C401.jpg"
+                                                 alt="Doda znowu przed sądem. Grozi jej pięć lat więzienia!">
+                                                                            </ins>
+                                    <span class="tile-entries-title">Doda znowu przed sądem. Grozi jej pięć lat więzienia!</span>
+                                </a>
+                            </li>
+                                                                                <li class="tile-entries-item i-2" data-iwa-item="3" data-iwa-hash="11208">
+                                <a class="tile-entries-link"
+                                   href="http://film.interia.pl/wiadomosci/news-kirk-douglas-pasja-zycia,nId,2316407">
+                                    <ins class="tile-entries-thumb">
+                                                                                    <img class="tile-entries-img" src="http://i.iplsc.com/-/00066EBR7KAPOBIO-C401.jpg"
+                                                 alt="100 lat? Niebywałe osiągnięcie legendy światowego kina!">
+                                                                            </ins>
+                                    <span class="tile-entries-title">100 lat? Niebywałe osiągnięcie legendy światowego kina!</span>
+                                </a>
+                            </li>
+                                                                                <li class="tile-entries-item i-3" data-iwa-item="4" data-iwa-hash="36944">
+                                <a class="tile-entries-link"
+                                   href="http://muzyka.interia.pl/wiadomosci/news-przeboj-roku-rmf-2016-ania-dabrowska-kontra-ewa-farna,nId,2317303">
+                                    <ins class="tile-entries-thumb">
+                                                                                    <img class="tile-entries-img" src="http://i.iplsc.com/-/00066P8FN752XJTL-C401.jpg"
+                                                 alt="Co dziewczyna Wojewódzkiego robiła z Ewą Farną? Zobacz!">
+                                                                            </ins>
+                                    <span class="tile-entries-title">Co dziewczyna Wojewódzkiego robiła z Ewą Farną? Zobacz!</span>
+                                </a>
+                            </li>
+                                                                                <li class="tile-entries-item i-4" data-iwa-item="5" data-iwa-hash="15902">
+                                <a class="tile-entries-link"
+                                   href="http://smaker.pl/newsy-perfekcyjny-schab-5-porad-ja-go-zrobic,1899438,a,.html">
+                                    <ins class="tile-entries-thumb">
+                                                                                    <img class="tile-entries-img" src="http://i.iplsc.com/-/00066PQKAAMBQO84-C401.jpg"
+                                                 alt="Dzięki tym trikom przygotujesz soczystą i kruchą wieprzowinę">
+                                                                            </ins>
+                                    <span class="tile-entries-title">Dzięki tym trikom przygotujesz soczystą i kruchą wieprzowinę</span>
+                                </a>
+                            </li>
+                                            </ul>
+                </div>
+                <div id="ad_recomended" class="ad tile-ad-recomended">
+                    <script>Inpl.Ad.insertAd('karuzela_zakladka')</script>
+                </div>
+            </div>
+
+        </div>
+                
+<script type="text/javascript">//<![CDATA[
+
+if (Inpl.Ad.isAd('karuzela_zakladka')) {tileAdvertisement();}
+//]]></script>        <!-- Poczate: Pogoda -->
+<div class="box spec weather-box" id="weather-box1" data-iwa-block="weather-box">
+    <div class="weather-box-header">
+        <span class="head-wrap">
+    <div class="weather-select">
+    <a class="weather-select-selected" data-iwa-disabled="1">
+        <span class="weather-select-selected-wrapper" id="weatherSelectedCityName">Warszawa</span>
+    </a>
+    <div id="weatherSelectCity" class="weather-select-city" data-iwa-block="weather-box-list">
+        <a data-iwa-disabled="1" class="weather-select-city-close"></a>
+        <h3>Wybierz miejscowość</h3>
+            <ul id="city">
+                                                                        <li class="weather-city-box" data-iwa-item="1" data-iwa-hash="16424">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-bialystok,cId,1197" value="1197" data-name="bialystok" >Białystok</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="2" data-iwa-hash="81601">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-bydgoszcz,cId,3696" value="3696" data-name="bydgoszcz" >Bydgoszcz</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="3" data-iwa-hash="34531">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-gdansk,cId,8048" value="8048" data-name="gdansk" >Gdańsk</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="4" data-iwa-hash="10960">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-katowice,cId,13095" value="13095" data-name="katowice" >Katowice</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="5" data-iwa-hash="48366">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-kielce,cId,13378" value="13378" data-name="kielce" >Kielce</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="6" data-iwa-hash="35232">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-krakow,cId,4970" value="4970" data-name="krakow" >Kraków</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="7" data-iwa-hash="26357">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-lublin,cId,19393" value="19393" data-name="lublin" >Lublin</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="8" data-iwa-hash="27902">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-lodz,cId,19059" value="19059" data-name="lodz" >Łódź</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="9" data-iwa-hash="34441">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-olsztyn,cId,24210" value="24210" data-name="olsztyn" >Olsztyn</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="10" data-iwa-hash="12653">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-opole,cId,24308" value="24308" data-name="opole" >Opole</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="11" data-iwa-hash="30685">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-poznan,cId,27457" value="27457" data-name="poznan" >Poznań</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="12" data-iwa-hash="25787">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-rzeszow,cId,30389" value="30389" data-name="rzeszow" >Rzeszów</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="13" data-iwa-hash="27195">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-szczecin,cId,34668" value="34668" data-name="szczecin" >Szczecin</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="14" data-iwa-hash="26840">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-warszawa,cId,36917" value="36917" data-name="warszawa" selected="selected" >Warszawa</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="15" data-iwa-hash="30975">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-wroclaw,cId,39240" value="39240" data-name="wroclaw" >Wrocław</a>
+                    </li>
+                                                        <li class="weather-city-box" data-iwa-item="16" data-iwa-hash="28829">
+                        <a href="//pogoda.interia.pl/prognoza-szczegolowa-zielona-gora,cId,41517" value="41517" data-name="zielona-gora" >Zielona Góra</a>
+                    </li>
+                            </ul>
+            <div class="other-world-cities" data-iwa-block="weather-box-world">
+                <a class="other-desc">Pogoda w:</a>
+                <a href="//pogoda.interia.pl/polska" data-iwa-item="1" data-iwa-hash="80378">Polsce</a>
+                <a href="//pogoda.interia.pl/europa" data-iwa-item="2" data-iwa-hash="42337">Europie</a>
+                <a href="//pogoda.interia.pl/swiat" data-iwa-item="3" data-iwa-hash="32467">na Świecie</a>
+            </div>
+        </div>
+</div>        </span>
+    </div>
+    <div class="wrap" id="weather-content">
+                    <div class="weather-day day1" data-iwa-item="1" data-iwa-hash="48184">
+            <a href="//pogoda.interia.pl/prognoza-szczegolowa-warszawa,cId,36917?noScroll=1" class="weather-link weather-info" >
+                    <img src="http://d.iplsc.com/weather/svg-icons/7.svg" alt="pogoda" class="weather-icon"/>
+                    <div class="temperature">
+                        <span class="day-name">Teraz</span>
+                        <span id="weatherTemp" class="temp daytime">2<b class="deg">&deg;C</b></span>
+                    </div>
+            </a>
+        </div>
+            <div class="weather-day day2" data-iwa-item="2" data-iwa-hash="12684">
+            <a href="//pogoda.interia.pl/prognoza-szczegolowa-warszawa,cId,36917?noScroll=1" class="weather-link weather-info" >
+                    <img src="http://d.iplsc.com/weather/svg-icons/21.svg" alt="pogoda" class="weather-icon"/>
+                    <div class="temperature">
+                        <span class="day-name">Jutro</span>
+                        <span id="weatherTemp" class="temp daytime">2<b class="deg">&deg;C</b></span>
+                    </div>
+            </a>
+        </div>
+        </div>
+    <div class="weather-other-types" data-iwa-block="weather-box-types">
+                <a id="type72godz" data-iwa-item="1" data-iwa-hash="19696" href="http://pogoda.interia.pl/prognoza-szczegolowa-warszawa,cId,36917">Pogoda na 72 godz.</a>
+                <a id="type25dni" data-iwa-item="2" data-iwa-hash="90932" href="http://pogoda.interia.pl/prognoza-dlugoterminowa-warszawa,cId,36917">Pogoda na 25 dni</a>
+    </div>
+</div>
+<!-- Koniec: Pogoda -->    <div class="box  standard-news box-fakty" id="listbox_1" data-iwa-block="facts">
+        
+    <h2 class="box-header" data-iwa-block="facts_header" >
+        <ul class="service-link">
+                            <li data-iwa-item="1" data-iwa-hash="19756">
+                    <a href="//fakty.interia.pl">                        <span>fakty</span>
+                    </a>                </li>
+                    </ul>
+
+            </h2>
+
+        <div class="wrap">
+            <ul class="entries">
+                                                        <li class="entries-item" data-iwa-item="1" data-iwa-hash="33581" >
+                        
+
+
+            <a href="http://fakty.interia.pl/polska/news-nieprawidlowosci-podczas-rzadowego-lotu-komentarze-politykow,nId,2317368" class="thumb">
+                            <ins>
+                                    <img src="http://i.iplsc.com/-/00066PIBDSXBQSTR-C424.jpg" alt="Spór wokół lotu rządowego samolotu. Głos polityków">
+                            </ins>
+        
+        <span>
+                        Spór wokół lotu rządowego samolotu. Głos polityków        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="2" data-iwa-hash="40488" >
+                        
+
+
+            <a href="http://fakty.interia.pl/raporty/raport-afera-reprywatyzacyjna-w-warszawie/aktualnosci/news-rmf-fm-nie-bedzie-referendum-ws-odwolania-gronkiewicz-waltz,nId,2317221" class="thumb">
+                            <ins>
+                                    <img src="http://i.iplsc.com/-/00066OFCT8NL4QEQ-C424.jpg" alt="Odwołanie prezydent Warszawy: Ile zebrano podpisów?">
+                            </ins>
+        
+        <span>
+                        Odwołanie prezydent Warszawy: Ile zebrano podpisów?        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="3" data-iwa-hash="34806" >
+                        
+
+
+            <a href="http://fakty.interia.pl/swiat/news-ben-carson-wybrany-szefem-budownictwa-w-administracji-trumpa,nId,2317377" class="thumb">
+                            <ins>
+                                    <img src="http://i.iplsc.com/-/00066PK6RNXR48SA-C424.jpg" alt="Trump kompletuje administrację. Dał posadę rywalowi ">
+                            </ins>
+        
+        <span>
+                        Trump kompletuje administrację. Dał posadę rywalowi         </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="4" data-iwa-hash="28455" >
+                        
+
+
+            <a href="http://fakty.interia.pl/polska/news-ponad-200-funkcjonariuszy-cbsp-w-ubojni-w-kutnie-sa-pierwsze,nId,2317391" class="thumb">
+                            <ins>
+                                    <img src="http://i.iplsc.com/-/0005OZOGWAOJNQQF-C424.jpg" alt="CBŚP w ubojni w Kutnie. Są pierwsze zatrzymania ">
+                            </ins>
+        
+        <span>
+                        CBŚP w ubojni w Kutnie. Są pierwsze zatrzymania         </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="5" data-iwa-hash="72830" >
+                        
+
+
+            <a href="http://fakty.interia.pl/swiat/news-rosja-ujawniono-dowody-falszowania-wyborow,nId,2317389" class="thumb">
+                            <ins>
+                                    <img src="http://i.iplsc.com/-/00066PODRSQA9E81-C424.jpg" alt="Rosja: Ujawniono dowody fałszowania wyborów">
+                            </ins>
+        
+        <span>
+                        Rosja: Ujawniono dowody fałszowania wyborów        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="6" data-iwa-hash="24347" >
+                        
+
+
+            <a href="http://fakty.interia.pl/swiat/news-historia-smierci-19-letniej-studentki-wstrzasnela-niemcami-p,nId,2317339" class="thumb">
+                            <ins>
+                                    <img src="http://i.iplsc.com/-/00066PJJHJ6C6UTH-C424.jpg" alt="Brutalny mord w Niemczech. Narasta spór polityczny">
+                            </ins>
+        
+        <span>
+                        Brutalny mord w Niemczech. Narasta spór polityczny        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="7" data-iwa-hash="19776" >
+                        
+
+
+            <a href="/raportdrogowy/news,nId,2317277" class="thumb">
+                            <ins>
+                                    <img src="http://i.iplsc.com/-/0005P7VVC4G2U7DB-C424.jpg" alt="Kielce: Wypadek z udziałem autobusu. Nie żyje kierowca">
+                            </ins>
+        
+        <span>
+                        Kielce: Wypadek z udziałem autobusu. Nie żyje kierowca        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="8" data-iwa-hash="63341" >
+                        
+
+
+            <a href="http://fakty.interia.pl/raporty/raport-reforma-edukacji/aktualnosci/news-apel-do-prezydenta-dudy-chodzi-o-reforme-edukacji,nId,2317390" class="thumb">
+                            <ins>
+                                    <img src="http://i.iplsc.com/-/00064R9N8LE6OXOK-C424.jpg" alt="&quot;Społeczeństwo nie chce tej reformy&quot;. Apel do Dudy ">
+                            </ins>
+        
+        <span>
+                        &quot;Społeczeństwo nie chce tej reformy&quot;. Apel do Dudy         </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="9" data-iwa-hash="68186" >
+                        
+
+
+            <a href="http://fakty.interia.pl/polska/news-siemoniak-zlozymy-wniosek-o-obnizenie-emerytur-prokuratorom-,nId,2317300" class="thumb">
+                            <ins>
+                                    <img src="http://i.iplsc.com/-/00066P6JC181HB6Y-C424.jpg" alt="&quot;PiS nie chce obniżyć emerytury Piotrowiczowi&quot;">
+                            </ins>
+        
+        <span>
+                        &quot;PiS nie chce obniżyć emerytury Piotrowiczowi&quot;        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="10" data-iwa-hash="29720" >
+                        
+
+
+            <a href="http://fakty.interia.pl/polska/news-podczas-budowy-ii-linii-metra-na-woli-odkryto-ludzkie-szczat,nId,2317360" class="thumb">
+                            <ins>
+                                    <img src="http://i.iplsc.com/-/00066PGCCIHV3O84-C424.jpg" alt="Na warszawskiej Woli odnaleziono ludzkie szczątki">
+                            </ins>
+        
+        <span>
+                        Na warszawskiej Woli odnaleziono ludzkie szczątki        </span>
+    </a>
+
+                    </li>
+                                                                </ul>
+        </div>
+        <div class="nav" data-iwa-block="facts-nav" >
+                                                            <p class="see-more" data-iwa-item="1" data-iwa-hash="87749"><a class="serviceLink" href="//fakty.interia.pl">Przejdź do serwisu <span>fakty</span></a></p>
+                                                </div>
+    </div>
+
+
+<script type="text/javascript" src="http://w.iplsc.com/internal/inpl.sponsor/1.1.4/inpl.sponsor.js"></script>
+<script type="text/javascript" src="/j/sponsor-links-link.js"></script><script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("art_spons_fakty");
+ } catch(err) { }
+// ]]> -->
+</script>
+<script type="text/javascript">//<![CDATA[
+
+Inpl.Ad.onAd('art_spons_fakty', function (isAd) {
+if(!isAd){
+return false;
+}
+var listData = Inpl.Sponsor({ action: {"boxId":"listbox_1","boxSingle":null,"typePlace":{"article":{"art_spons_fakty":{"itemPosition":"1"},"logoText":"- Art. Spons.","urlMoreText":"Czytaj wi\u0119cej"},"link":{"art_spons_fakty":{"itemPosition":"1"},"logoText":"- Link Spons.","urlMoreText":"Zobacz wi\u0119cej"}},"namePlace":"linkSpons","typeAction":"append","listTag":"UL","listClass":"entries","itemTag":"LI","itemClass":"entries-item","adsPlace":"art_spons_fakty"},
+views: {"contentClass":"brief-content","titleTag":"a","photoClass":"C424"},
+renderer: Inpl.Sponsor.Links.Link,
+callback: function (listData) {
+listData && listData.gemiusPv ? gemius_hit(listData.gemiusPv) : null;
+listData && listData.clientPv ? document.write('' + listData.clientPv + '') : null;
+}
+});
+});
+//]]></script>    <div class="adplace ad banner_app" id="banner_app1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("banner_app");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('banner_app')) {
+document.getElementById('banner_app1').style.display='';
+}
+else {
+document.getElementById('banner_app1').style.display='none';
+}
+//]]></script>    <div class="adplace ad" id="banner_fakty1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("banner_fakty");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('banner_fakty')) {
+document.getElementById('banner_fakty1').style.display='';
+}
+else {
+document.getElementById('banner_fakty1').style.display='none';
+}
+//]]></script>    <div class="box  standart-news" id="listbox_2" data-iwa-block="business">
+        
+    <h2 class="box-header" data-iwa-block="business_header" >
+        <ul class="service-link">
+                            <li data-iwa-item="1" data-iwa-hash="40305">
+                    <a href="/biznes">                        <span>Biznes</span>
+                    </a>                </li>
+                    </ul>
+
+                    <ul class="additional-link">
+                                    <li>
+                        <a href="/waluty" data-iwa-item="2" data-iwa-hash="11636">Waluty</a>
+                    </li>
+                                    <li>
+                        <a href="/gielda" data-iwa-item="3" data-iwa-hash="48214">Notowania</a>
+                    </li>
+                            </ul>
+            </h2>
+
+        <div class="wrap">
+            <ul class="entries">
+                                                        <li class="entries-item" data-iwa-item="1" data-iwa-hash="25046" >
+                        
+
+
+            <a href="/biznes/news,2434383,1852" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://img.interia.pl/biznes/nimg/c/y/Sroda_Slaska_protest_Fot_6911490.jpg" alt="Kolejna zagraniczna superinwestycja w naszym kraju!">
+                            </ins>
+        
+        <span>
+                        Kolejna zagraniczna superinwestycja w naszym kraju!        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="2" data-iwa-hash="17850" >
+                        
+
+
+            <a href="/praca/news,nId,2317279" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066OZN2ERN17WX-C424.jpg" alt="Rząd szykuje podwyżki dla urzędników">
+                            </ins>
+        
+        <span>
+                        Rząd szykuje podwyżki dla urzędników        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="3" data-iwa-hash="31122" >
+                        
+
+
+            <a href="/biznes/news,2433034,1852" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://img.interia.pl/biznes/nimg/r/u/Zrobisz_zakupy_niedziele_6910231.jpg" alt="Zrobisz zakupy w niedzielę - trafisz za kraty!">
+                            </ins>
+        
+        <span>
+                        Zrobisz zakupy w niedzielę - trafisz za kraty!        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="4" data-iwa-hash="37984" >
+                        
+
+
+            <a href="/biznes/news,2434448,4211" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://img.interia.pl/biznes/nimg/c/j/Gruza_zamierza_rozwiazac_6911569.jpg" alt="PIT od umorzonych czynszów: Będą nowe przepisy?">
+                            </ins>
+        
+        <span>
+                        PIT od umorzonych czynszów: Będą nowe przepisy?        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="5" data-iwa-hash="75265" >
+                        
+
+
+            <a href="/biznes/news,2434276,4199" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://img.interia.pl/biznes/nimg/0/k/Zbigniew_Ziobro_Patryk_6911419.jpg" alt="Blokują &quot;elektrownię Patryka Jakiego&quot; (PiS)">
+                            </ins>
+        
+        <span>
+                        Blokują &quot;elektrownię Patryka Jakiego&quot; (PiS)        </span>
+    </a>
+
+                    </li>
+                                                                </ul>
+        </div>
+        <div class="nav" data-iwa-block="business-nav" >
+                                                            <p class="see-more" data-iwa-item="1" data-iwa-hash="14519"><a class="serviceLink" href="/biznes">Przejdź do serwisu <span>Biznes</span></a></p>
+                                                </div>
+    </div>
+
+<script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("art_spons_biznes");
+ } catch(err) { }
+// ]]> -->
+</script>
+<script type="text/javascript">//<![CDATA[
+
+Inpl.Ad.onAd('art_spons_biznes', function (isAd) {
+if(!isAd){
+return false;
+}
+var listData = Inpl.Sponsor({ action: {"boxId":"listbox_2","boxSingle":null,"typePlace":{"article":{"art_spons_biznes":{"itemPosition":"1"},"logoText":"- Art. Spons.","urlMoreText":"Czytaj wi\u0119cej"},"link":{"art_spons_biznes":{"itemPosition":"1"},"logoText":"- Link Spons.","urlMoreText":"Zobacz wi\u0119cej"}},"namePlace":"linkSpons","typeAction":"append","listTag":"UL","listClass":"entries","itemTag":"LI","itemClass":"entries-item","adsPlace":"art_spons_biznes"},
+views: {"contentClass":"brief-content","titleTag":"a","photoClass":"C424"},
+renderer: Inpl.Sponsor.Links.Link,
+callback: function (listData) {
+listData && listData.gemiusPv ? gemius_hit(listData.gemiusPv) : null;
+listData && listData.clientPv ? document.write('' + listData.clientPv + '') : null;
+}
+});
+});
+//]]></script><div class="box spec exchange" id="box-exchange-rates1" data-iwa-block="box-exchange-rates">
+
+<section>
+    <header data-iwa-item="1" data-iwa-hash="11636">
+        <a href="/waluty">Waluty</a>
+    </header>
+    <ul>
+        <li data-iwa-item="2" data-iwa-hash="22388" >
+            <a href="/waluty/online#2734" class="trend-down">
+                <span class="valor">
+                    <span class="name">CHF/PLN</span>
+                    <span class="value">4,1698</span>
+                </span>
+            </a>
+        </li>
+        <li data-iwa-item="3" data-iwa-hash="34316" >
+            <a href="/waluty/online#2430" class="trend-up">
+                <span class="valor">
+                    <span class="name">EUR/PLN</span>
+                    <span class="value">4,5005</span>
+                </span>
+            </a>
+        </li>
+        <li data-iwa-item="4" data-iwa-hash="24608" >
+            <a href="/waluty/online#2429" class="trend-down">
+                <span class="valor">
+                    <span class="name">USD/PLN</span>
+                    <span class="value">4,2114</span>
+                </span>
+            </a>
+        </li>
+    </ul>
+</section>
+
+<section>
+    <header data-iwa-item="5" data-iwa-hash="42099">
+        <a href="/gielda">Giełda</a>
+    </header>
+    <ul>
+    <li data-iwa-item="6" data-iwa-hash="16054">
+      <a href="/gielda/indeksy/gpw#397" class="trend-up">
+        <span class="valor">
+            <span class="name">WIG</span>
+            <span class="value">49184,17</span>
+        </span>
+       </a>
+    </li>
+    <li data-iwa-item="7" data-iwa-hash="23348">
+      <a href="/gielda/indeksy/swiat#403" class="trend-up">
+        <span class="valor">
+            <span class="name">CAC</span>
+            <span class="value">4557,66</span>
+        </span>
+       </a>
+    </li>
+    <li data-iwa-item="8" data-iwa-hash="67132">
+      <a href="/gielda/indeksy/swiat#399" class="trend-up">
+        <span class="valor">
+            <span class="name">DAX</span>
+            <span class="value">10644,8</span>
+        </span>
+       </a>
+    </li>
+    </ul>
+</section>
+
+</div>
+    <div class="adplace ad" id="banner_biznes1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("banner_biznes");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('banner_biznes')) {
+document.getElementById('banner_biznes1').style.display='';
+}
+else {
+document.getElementById('banner_biznes1').style.display='none';
+}
+//]]></script>    <div class="box  standart-news box-sport" id="listbox_3" data-iwa-block="sport">
+        
+    <h2 class="box-header" data-iwa-block="sport_header" >
+        <ul class="service-link">
+                                                <li data-iwa-item="1" data-iwa-hash="44498" ><a href="/sport"><span>sport</span></a></li>
+                                    </ul>
+
+            </h2>
+
+        <div class="wrap">
+            <ul class="entries">
+                                                        <li class="entries-item" data-iwa-item="1" data-iwa-hash="16469" >
+                        
+
+
+            <a href="http://sport.interia.pl/bundesliga/news-bayern-monachium-odzyl-bo-carlo-ancelotti-zmienil-system,nId,2317376" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066PKQ70E0T45D-C424.jpg" alt="Trener Bayernu się ugiął. &quot;Lewy&quot; i Mueller zachwyceni">
+                            </ins>
+        
+        <span>
+                        Trener Bayernu się ugiął. &quot;Lewy&quot; i Mueller zachwyceni        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="2" data-iwa-hash="13646" >
+                        
+
+
+            <a href="http://sport.interia.pl/sporty-walki/news-ksw-37-wlasciciel-ksw-przyznal-sie-do-bledu-ws-popka,nId,2317179" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066O32RKGLPQMW-C424.jpg" alt="Właściciel KSW przyznał się do błędu ws. &quot;Popka&quot;">
+                            </ins>
+        
+        <span>
+                        Właściciel KSW przyznał się do błędu ws. &quot;Popka&quot;        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="3" data-iwa-hash="25384" >
+                        
+
+
+            <a href="http://sport.interia.pl/pilka-nozna/liga-mistrzow/news-bayern-atletico-antoine-griezmann-wychwala-roberta-lewandows,nId,2317200" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066O86T9VMHLK2-C424.jpg" alt="Gwiazda ekipy z Madrytu bez ogródek o Lewandowskim">
+                            </ins>
+        
+        <span>
+                        Gwiazda ekipy z Madrytu bez ogródek o Lewandowskim        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="4" data-iwa-hash="26513" >
+                        
+
+
+            <a href="http://sport.interia.pl/bundesliga/news-robert-lewandowski-blisko-przedluzenia-umowy-z-bayernem-mona,nId,2317386" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066PN5GGV4V66C-C424.jpg" alt="Nowa umowa &quot;Lewego&quot;? &quot;Długo to już nie będzie trwało&quot;">
+                            </ins>
+        
+        <span>
+                        Nowa umowa &quot;Lewego&quot;? &quot;Długo to już nie będzie trwało&quot;        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="5" data-iwa-hash="37554" >
+                        
+
+
+            <a href="/zkarnego/news,nId,2317307" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066P5KSFRJFKIW-C424.jpg" alt="Wpadka organizatorów ME. Mocne słowa Polek">
+                            </ins>
+        
+        <span>
+                        Wpadka organizatorów ME. Mocne słowa Polek        </span>
+    </a>
+
+                    </li>
+                                                                </ul>
+        </div>
+        <div class="nav" data-iwa-block="sport-nav" >
+                    
+                        <p class="see-more" data-iwa-item="1" data-iwa-hash="88736"><a class="serviceLink" href="/sport">Przejdź do serwisu <span>sport</span></a></p>
+                                    </div>
+    </div>
+
+
+
+
+<div class="widget-liveevents eventBox" id="eventData" data-iwa-block="liveevents">
+        <div class="event-details">
+            <div class="event-info">
+                <span class="info">Wkrótce na żywo:</span>
+                <a href="/na-zywo" class="more"data-iwa-item="1" data-iwa-hash="12745">Więcej relacji</a>
+            </div>
+            <div class="futureEventBox">
+                <a class="event-link" href="/na-zywo/relacja/lm-legia-warszawa-sporting-lizbona,id,4566" data-iwa-item="5" data-iwa-hash="42258">
+                    <span class="event-name">LM: Legia Warszawa - Sporting Lizbona</span>
+                    <span class="event-date">Start: 2016-12-07 20:45</span>
+                </a>
+            </div>
+        </div>
+</div>
+<script>
+    x$(window).load(function(){
+        var data = document.getElementById('eventData');
+        var ph = document.getElementById('eventPlaceholder')
+        if( ph ) {
+            ph.parentNode.insertBefore(data, ph);
+        }
+    });
+</script>
+<script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("art_spons_sport");
+ } catch(err) { }
+// ]]> -->
+</script>
+<script type="text/javascript">//<![CDATA[
+
+Inpl.Ad.onAd('art_spons_sport', function (isAd) {
+if(!isAd){
+return false;
+}
+var listData = Inpl.Sponsor({ action: {"boxId":"listbox_3","boxSingle":null,"typePlace":{"article":{"art_spons_sport":{"itemPosition":"1"},"logoText":"- Art. Spons.","urlMoreText":"Czytaj wi\u0119cej"},"link":{"art_spons_sport":{"itemPosition":"1"},"logoText":"- Link Spons.","urlMoreText":"Zobacz wi\u0119cej"}},"namePlace":"linkSpons","typeAction":"append","listTag":"UL","listClass":"entries","itemTag":"LI","itemClass":"entries-item","adsPlace":"art_spons_sport"},
+views: {"contentClass":"brief-content","titleTag":"a","photoClass":"C424"},
+renderer: Inpl.Sponsor.Links.Link,
+callback: function (listData) {
+listData && listData.gemiusPv ? gemius_hit(listData.gemiusPv) : null;
+listData && listData.clientPv ? document.write('' + listData.clientPv + '') : null;
+}
+});
+});
+//]]></script>    <div class="adplace ad promoAfterThis" id="banner_sport1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("banner_sport");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('banner_sport')) {
+document.getElementById('banner_sport1').style.display='';
+}
+else {
+document.getElementById('banner_sport1').style.display='none';
+}
+//]]></script>    <div class="adplace ad ws-box" id="banner_warto_zobaczyc1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("banner_warto_zobaczyc");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('banner_warto_zobaczyc')) {
+document.getElementById('banner_warto_zobaczyc1').style.display='';
+}
+else {
+document.getElementById('banner_warto_zobaczyc1').style.display='none';
+}
+//]]></script>    <div class="adplace ad ws-box" id="banner_interia_poleca1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("banner_interia_poleca");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('banner_interia_poleca')) {
+document.getElementById('banner_interia_poleca1').style.display='';
+}
+else {
+document.getElementById('banner_interia_poleca1').style.display='none';
+}
+//]]></script>    <div class="box  standart-news ws-before-this box-moto" id="listbox_4" data-iwa-block="automotive">
+        
+    <h2 class="box-header" data-iwa-block="automotive_header" >
+        <ul class="service-link">
+                            <li data-iwa-item="1" data-iwa-hash="42401">
+                    <a href="/motoryzacja">                        <span>motoryzacja</span>
+                    </a>                </li>
+                    </ul>
+
+            </h2>
+
+        <div class="wrap">
+            <ul class="entries">
+                                                        <li class="entries-item" data-iwa-item="1" data-iwa-hash="38771" >
+                        
+
+
+            <a href="/motoryzacja/news,nId,2313984" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066OEVHUSHYE7P-C424.jpg" alt="Widzisz drogowego chama? Nie ruszaj, bo drogo zapłacisz!">
+                            </ins>
+        
+        <span>
+                        Widzisz drogowego chama? Nie ruszaj, bo drogo zapłacisz!        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="2" data-iwa-hash="29731" >
+                        
+
+
+            <a href="/motoryzacja/news,nId,2316396" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066DMWJAUEIAY1-C424.jpg" alt="Ocet na szybę i inne najgłupsze zimowe patenty kierowców">
+                            </ins>
+        
+        <span>
+                        Ocet na szybę i inne najgłupsze zimowe patenty kierowców        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="3" data-iwa-hash="67146" >
+                        
+
+
+            <a href="/motoryzacja/news,nId,2317223" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066OF6YS48THYB-C424.jpg" alt="Popularny model znika z rynku. Na zawsze!">
+                            </ins>
+        
+        <span>
+                        Popularny model znika z rynku. Na zawsze!        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="4" data-iwa-hash="29897" >
+                        
+
+
+            <a href="/motoryzacja/news,nId,2317055" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066L682KPT2U4Y-C424.jpg" alt="Uciekł z miejsca śmiertelnego wypadku">
+                            </ins>
+        
+        <span>
+                        Uciekł z miejsca śmiertelnego wypadku        </span>
+    </a>
+
+                    </li>
+                                                                </ul>
+        </div>
+        <div class="nav" data-iwa-block="automotive-nav" >
+                                                            <p class="see-more" data-iwa-item="1" data-iwa-hash="16661"><a class="serviceLink" href="/motoryzacja">Przejdź do serwisu <span>motoryzacja</span></a></p>
+                                                </div>
+    </div>
+
+<script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("art_spons_motoryzacja");
+ } catch(err) { }
+// ]]> -->
+</script>
+<script type="text/javascript">//<![CDATA[
+
+Inpl.Ad.onAd('art_spons_motoryzacja', function (isAd) {
+if(!isAd){
+return false;
+}
+var listData = Inpl.Sponsor({ action: {"boxId":"listbox_4","boxSingle":null,"typePlace":{"article":{"art_spons_motoryzacja":{"itemPosition":"1"},"logoText":"- Art. Spons.","urlMoreText":"Czytaj wi\u0119cej"},"link":{"art_spons_motoryzacja":{"itemPosition":"1"},"logoText":"- Link Spons.","urlMoreText":"Zobacz wi\u0119cej"}},"namePlace":"linkSpons","typeAction":"append","listTag":"UL","listClass":"entries","itemTag":"LI","itemClass":"entries-item","adsPlace":"art_spons_motoryzacja"},
+views: {"contentClass":"brief-content","titleTag":"a","photoClass":"C424"},
+renderer: Inpl.Sponsor.Links.Link,
+callback: function (listData) {
+listData && listData.gemiusPv ? gemius_hit(listData.gemiusPv) : null;
+listData && listData.clientPv ? document.write('' + listData.clientPv + '') : null;
+}
+});
+});
+//]]></script>    <div class="adplace ad promoAfterThis" id="banner_motoryzacja1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("banner_motoryzacja");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('banner_motoryzacja')) {
+document.getElementById('banner_motoryzacja1').style.display='';
+}
+else {
+document.getElementById('banner_motoryzacja1').style.display='none';
+}
+//]]></script>    <div class="adplace ad" id="m_halfpage1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("m_halfpage");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('m_halfpage')) {
+document.getElementById('m_halfpage1').style.display='';
+}
+else {
+document.getElementById('m_halfpage1').style.display='none';
+}
+//]]></script>    <div class="box  standart-news box-nt" id="listbox_5" data-iwa-block="technologies">
+        
+    <h2 class="box-header" data-iwa-block="technologies_header" >
+        <ul class="service-link">
+                                                <li data-iwa-item="1" data-iwa-hash="29555" ><a href="http://nt.interia.pl/"><span>TECH</span></a></li>
+                                    <li data-iwa-item="2" data-iwa-hash="31921" ><a href="http://gry.interia.pl/"><span>Gry</span></a></li>
+                                    </ul>
+
+            </h2>
+
+        <div class="wrap">
+            <ul class="entries">
+                                                        <li class="entries-item" data-iwa-item="1" data-iwa-hash="46079" >
+                        
+
+
+            <a href="http://gry.interia.pl/newsy/news-wkrotce-ruszy-promocja-na-gry-w-lidlu,nId,2316054" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/000669VYOCOCQPAA-C424.jpg" alt="Popularny sklep w Polsce szykuje duże obniżki. To będzie szaleństwo?">
+                            </ins>
+        
+        <span>
+                        Popularny sklep w Polsce szykuje duże obniżki. To będzie szaleństwo?        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="2" data-iwa-hash="40460" >
+                        
+
+
+            <a href="http://nt.interia.pl/audio-wideo/news-soundbar-hykker-od-poniedzialku-w-biedronce,nId,2316685" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066EQSIFMVK7C4-C424.jpg" alt="Soundbar za 199 zł w Biedronce. To może być hit">
+                            </ins>
+        
+        <span>
+                        Soundbar za 199 zł w Biedronce. To może być hit        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="3" data-iwa-hash="18527" >
+                        
+
+
+            <a href="http://gry.interia.pl/newsy/news-potwierdzono-powstaje-kontynuacja-the-last-of-us,nId,2317362" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066PGL7VSFN3FY-C424.jpg" alt="PlayStation 4: Prośby użytkowników konsoli Sony zostały wysłuchane!">
+                            </ins>
+        
+        <span>
+                        PlayStation 4: Prośby użytkowników konsoli Sony zostały wysłuchane!        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="4" data-iwa-hash="25083" >
+                        
+
+
+            <a href="http://nt.interia.pl/raport-niewyjasnione/strona-glowna/news-czy-na-ksiezycu-znajduja-sie-rysunki-podobne-do-tych-z-plask,nId,2315649" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/000668P9CILFDKQ0-C424.jpg" alt="Tajemnicze znaki na powierzchni Księżyca. Kto je stworzył?">
+                            </ins>
+        
+        <span>
+                        Tajemnicze znaki na powierzchni Księżyca. Kto je stworzył?        </span>
+    </a>
+
+                    </li>
+                                                                </ul>
+        </div>
+        <div class="nav" data-iwa-block="technologies-nav" >
+                    
+                        <p class="see-more" data-iwa-item="1" data-iwa-hash="17194"><a class="serviceLink" href="http://nt.interia.pl/">Przejdź do serwisu <span>TECH</span></a></p>
+                        <p class="see-more" data-iwa-item="2" data-iwa-hash="22531"><a class="serviceLink" href="http://gry.interia.pl/">Przejdź do serwisu <span>Gry</span></a></p>
+                                    </div>
+    </div>
+
+<script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("art_spons_nt");
+ } catch(err) { }
+// ]]> -->
+</script>
+<script type="text/javascript">//<![CDATA[
+
+Inpl.Ad.onAd('art_spons_nt', function (isAd) {
+if(!isAd){
+return false;
+}
+var listData = Inpl.Sponsor({ action: {"boxId":"listbox_5","boxSingle":null,"typePlace":{"article":{"art_spons_nt":{"itemPosition":"1"},"logoText":"- Art. Spons.","urlMoreText":"Czytaj wi\u0119cej"},"link":{"art_spons_nt":{"itemPosition":"1"},"logoText":"- Link Spons.","urlMoreText":"Zobacz wi\u0119cej"}},"namePlace":"linkSpons","typeAction":"append","listTag":"UL","listClass":"entries","itemTag":"LI","itemClass":"entries-item","adsPlace":"art_spons_nt"},
+views: {"contentClass":"brief-content","titleTag":"a","photoClass":"C424"},
+renderer: Inpl.Sponsor.Links.Link,
+callback: function (listData) {
+listData && listData.gemiusPv ? gemius_hit(listData.gemiusPv) : null;
+listData && listData.clientPv ? document.write('' + listData.clientPv + '') : null;
+}
+});
+});
+//]]></script>
+                <section id="linksblock-category_1" class="linksblock-category" data-iwa-block="games">
+            <header data-iwa-block="games_header">                                    <h2 data-iwa-item="1" data-iwa-hash="14098" class="linksblock-category-title">                    <a href="http://click.pl">                    Gry online                    </a>                                        </h2>                                </header>            <ul class="linksblock-category-list">
+                                                                        <li class="linksblock-category-item item i1" data-iwa-item="1" data-iwa-hash="27061">
+                                                                                <div class="linksblock-category-thumbnail"><a class="linksblock-category-image" href="http://www.click.pl/graj-wojna-tytan%C3%B3w,1490661"><img class="linksblock-category-file" alt="Wciel się w postać gladiatora i walcz w obronie swojego klanu!" src="http://i.iplsc.com/wciel-sie-w-postac-gladiatora-i-walcz-w-obronie-swojego-klan/0003H0K8Q94QFYIN-C418.jpg" /></a></div>
+                                                <h3 class="linksblock-category-reportstitle">                        <a class="linksblock-category-link" href="http://www.click.pl/graj-wojna-tytan%C3%B3w,1490661"> Wciel się w postać gladiatora i walcz w obronie swojego klanu!</a>
+                        </h3>
+                        <p class="linksblock-category-service"></p>
+                    </li>
+                                                        <li class="linksblock-category-item item i2 ilast" data-iwa-item="2" data-iwa-hash="20358">
+                                                                                <div class="linksblock-category-thumbnail"><a class="linksblock-category-image" href="http://www.click.pl/graj-odlotowe-wie%C5%BCowce,1490713"><img class="linksblock-category-file" alt="Zbuduj najpotężniejszy wieżowiec! Graj już teraz!" src="http://i.iplsc.com/zbuduj-najpotezniejszy-wiezowiec-graj-juz-teraz/0003H0TB2JK69QXH-C418.jpg" /></a></div>
+                                                <h3 class="linksblock-category-reportstitle">                        <a class="linksblock-category-link" href="http://www.click.pl/graj-odlotowe-wie%C5%BCowce,1490713"> Zbuduj najpotężniejszy wieżowiec! Graj już teraz!</a>
+                        </h3>
+                        <p class="linksblock-category-service"></p>
+                    </li>
+                            </ul>
+        </section>
+        <div class="adplace ad" id="banner_nt1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("banner_nt");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('banner_nt')) {
+document.getElementById('banner_nt1').style.display='';
+}
+else {
+document.getElementById('banner_nt1').style.display='none';
+}
+//]]></script>    <div class="adplace ad" id="banner_gry1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("banner_gry");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('banner_gry')) {
+document.getElementById('banner_gry1').style.display='';
+}
+else {
+document.getElementById('banner_gry1').style.display='none';
+}
+//]]></script>    <div class="box  standart-news box-rozrywka" id="listbox_6" data-iwa-block="founds">
+        
+    <h2 class="box-header" data-iwa-block="founds_header" >
+        <ul class="service-link">
+                                                <li data-iwa-item="1" data-iwa-hash="28242" ><a href="http://funduszeeuropejskielubieto.interia.pl/"><span>fundusze europejskie</span></a></li>
+                                    </ul>
+
+            </h2>
+
+        <div class="wrap">
+            <ul class="entries">
+                                                        <li class="entries-item" data-iwa-item="1" data-iwa-hash="78664" >
+                        
+
+
+            <a href="http://funduszeeuropejskielubieto.interia.pl/konkursy/news-2-etap-konkursu-nakrec-sie-na-sukces,nId,2302925">
+                            <ins class="no-image"></ins>
+        
+        <span>
+                        Drugi etap konkursu. Potrzeba jurorów!        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="2" data-iwa-hash="87038" >
+                        
+
+
+            <a href="http://funduszeeuropejskielubieto.interia.pl/konkursy/filmy-konkursowe/video,vId,2175946" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066P04B3G49UMI-C424.jpg" alt="Ten zakątek Polski przyciąga o każdej porze roku. Oni to wykorzystali">
+                            </ins>
+        
+        <span>
+                        Ten zakątek Polski przyciąga o każdej porze roku. Oni to wykorzystali        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="3" data-iwa-hash="10052" >
+                        
+
+
+            <a href="http://funduszeeuropejskielubieto.interia.pl/konkursy/filmy-konkursowe/video,vId,2175944" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066P1YS1SUX73V-C424.jpg" alt="Takich instrukcji obsługi się nie spodziewaliście">
+                            </ins>
+        
+        <span>
+                        Takich instrukcji obsługi się nie spodziewaliście        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="4" data-iwa-hash="12999" >
+                        
+
+
+            <a href="http://funduszeeuropejskielubieto.interia.pl/wideo/video,vId,2190950" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066P25CCPIFMS8-C424.jpg" alt="Rozwijasz firmę i chcesz wiedzieć, na czym stoisz? Sprawdź to!">
+                            </ins>
+        
+        <span>
+                        Rozwijasz firmę i chcesz wiedzieć, na czym stoisz? Sprawdź to!        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="5" data-iwa-hash="12680" >
+                        
+
+
+            <a href="http://funduszeeuropejskielubieto.interia.pl/infografiki/news-wyjedz-na-miedzynarodowy-staz-z-fe,nId,2316692" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066ETZV9ME5JC1-C424.png" alt="Słyszeliście już o programie &quot;Power&quot;? Warto sprawdzić!">
+                            </ins>
+        
+        <span>
+                        Słyszeliście już o programie &quot;Power&quot;? Warto sprawdzić!        </span>
+    </a>
+
+                    </li>
+                                                                </ul>
+        </div>
+        <div class="nav" data-iwa-block="founds-nav" >
+                    
+                        <p class="see-more" data-iwa-item="1" data-iwa-hash="21734"><a class="serviceLink" href="http://funduszeeuropejskielubieto.interia.pl/">Przejdź do serwisu <span>fundusze europejskie</span></a></p>
+                                    </div>
+    </div>
+
+    <div class="box  standart-news box-rozrywka" id="listbox_7" data-iwa-block="entertainment">
+        
+    <h2 class="box-header" data-iwa-block="entertainment_header" >
+        <ul class="service-link">
+                                                <li data-iwa-item="1" data-iwa-hash="36157" ><a href="http://muzyka.interia.pl/"><span>muzyka</span></a></li>
+                                    <li data-iwa-item="2" data-iwa-hash="21855" ><a href="http://film.interia.pl/"><span>film</span></a></li>
+                                    </ul>
+
+                    <ul class="additional-link">
+                                    <li>
+                        <a href="/kina" data-iwa-item="4" data-iwa-hash="39529">Kina</a>
+                    </li>
+                            </ul>
+            </h2>
+
+        <div class="wrap">
+            <ul class="entries">
+                                                        <li class="entries-item" data-iwa-item="1" data-iwa-hash="39477" >
+                        
+
+
+            <a href="http://muzyka.interia.pl/wiadomosci/news-popek-skomentowal-porazke-z-mariuszem-pudzianowskim,nId,2317215" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066OD17J2PDRPB-C424.jpg" alt="Popek skomentował porażkę z Mariuszem Pudzianowskim!">
+                            </ins>
+        
+        <span>
+                        Popek skomentował porażkę z Mariuszem Pudzianowskim!        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="2" data-iwa-hash="40736" >
+                        
+
+
+            <a href="http://film.interia.pl/recenzje/news-creative-control-recenzja-schemat-goni-schemat,nId,2315684" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/000669391U7HRI6C-C424.jpg" alt="Dzięki temu można spełnić swoje erotyczne pragnienia">
+                            </ins>
+        
+        <span>
+                        Dzięki temu można spełnić swoje erotyczne pragnienia        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="3" data-iwa-hash="18889" >
+                        
+
+
+            <a href="http://swiatseriali.interia.pl/newsy/seriale/m-jak-milosc-383/news-m-jak-milosc-reka-na-zgode,nId,2316357" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066D9U4O2BCU9O-C424.jpg" alt="„M jak miłość”: Wybaczy ojcu… dla pieniędzy?">
+                            </ins>
+        
+        <span>
+                        „M jak miłość”: Wybaczy ojcu… dla pieniędzy?        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="4" data-iwa-hash="17761" >
+                        
+
+
+            <a href="http://muzyka.interia.pl/wiadomosci/news-mel-b-pozuje-nago-i-wspiera-kobiety,nId,2317174" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066O1CNINRU1HG-C424.jpg" alt="41-letnia gwiazda pozuje bez ubrania. Jak to tłumaczy?">
+                            </ins>
+        
+        <span>
+                        41-letnia gwiazda pozuje bez ubrania. Jak to tłumaczy?        </span>
+    </a>
+
+                    </li>
+                                                                </ul>
+        </div>
+        <div class="nav" data-iwa-block="entertainment-nav" >
+                    
+                        <p class="see-more" data-iwa-item="1" data-iwa-hash="22908"><a class="serviceLink" href="http://muzyka.interia.pl/">Przejdź do serwisu <span>muzyka</span></a></p>
+                        <p class="see-more" data-iwa-item="2" data-iwa-hash="12868"><a class="serviceLink" href="http://film.interia.pl/">Przejdź do serwisu <span>film</span></a></p>
+                                    </div>
+    </div>
+
+                </div>
+            
+                            <div class="main-sidebar">
+                        <div class="box  box-connector ws-box" id="listbox_8" data-iwa-block="worthSee">
+        
+    <h2 class="box-header" data-iwa-block="worthSee_header" >
+        <ul class="service-link">
+                            <li data-iwa-item="1" data-iwa-hash="33091">
+                                            <span>Polecane</span>
+                                    </li>
+                    </ul>
+
+            </h2>
+
+        <div class="wrap">
+            <ul class="entries">
+                                                        <li class="entries-item" data-iwa-item="1" data-iwa-hash="40944" >
+                        
+
+
+            <a href="/motoryzacja/news,nId,2309422" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00064YQ48J3QH6HU-C424.jpg" alt="Kolejne nowe wymagania dla kierowców! Absurdalne?">
+                            </ins>
+        
+        <span>
+                        Kolejne nowe wymagania dla kierowców! Absurdalne?        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="2" data-iwa-hash="17933" >
+                        
+
+
+            <a href="http://swiatseriali.interia.pl/newsy/seriale/barwy-szczescia-372/news-barwy-szczescia-rybka-polknela-haczyk,nId,2316486" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066E82QSSO0WK8-C424.jpg" alt="„Barwy...”: Dziennikarz zniszczył mu życie. Teraz brutalnie się zemści">
+                            </ins>
+        
+        <span>
+                        „Barwy...”: Dziennikarz zniszczył mu życie. Teraz brutalnie się zemści        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="3" data-iwa-hash="59872" >
+                        
+
+
+            <a href="http://facet.interia.pl/militaria/news-admiral-kuzniecow-stracil-kolejny-samolot-padaja-jak-muchy,nId,2317284" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066OYRV9MCVEET-C424.jpg" alt="Dymi, jak by się palił. A piloci rozbijają na nim samoloty. Duma Rosji">
+                            </ins>
+        
+        <span>
+                        Dymi, jak by się palił. A piloci rozbijają na nim samoloty. Duma Rosji        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="4" data-iwa-hash="34720" >
+                        
+
+
+            <a href="http://fakty.interia.pl/polska/news-raport-o-biedzie-w-polsce,nId,2317267" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066OU6FRKJYBMA-C424.jpg" alt="Co szósta rodzina nie ma łazienki. Raport o polskiej biedzie">
+                            </ins>
+        
+        <span>
+                        Co szósta rodzina nie ma łazienki. Raport o polskiej biedzie        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="5" data-iwa-hash="39155" >
+                        
+
+
+            <a href="http://nt.interia.pl/raporty/raport-medycyna-przyszlosci/medycyna/news-jedna-komorka-car-t-zniszczy-100-000-komorek-nowotworowych,nId,2316425" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066DVY3SSLL8EA-C424.jpg" alt="Co zwiększa ryzyko zachorowania na raka? Trzeba to wiedzieć">
+                            </ins>
+        
+        <span>
+                        Co zwiększa ryzyko zachorowania na raka? Trzeba to wiedzieć        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="6" data-iwa-hash="49802" >
+                        
+
+
+            <a href="http://www.styl.pl/raporty/raport-stylowe-boze-narodzenie/kuchnia/news-bosacka-pierogi-od-sw-jacka,nId,2314921" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/000661K2JW1BKX1C-C424.jpg" alt="Pierogi od św. Jacka. Jeden dodatek, a ciasto jest tak pyszne">
+                            </ins>
+        
+        <span>
+                        Pierogi od św. Jacka. Jeden dodatek, a ciasto jest tak pyszne        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="7" data-iwa-hash="20875" >
+                        
+
+
+            <a href="http://www.styl.pl/newsy/gwiazdy/zdjecie,iId,2202745,iAId,224444" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066NYM1SW6449W-C424.jpg" alt="20-letnia Paulina Maziarz została nową Miss Polski 2016">
+                            </ins>
+        
+        <span>
+                        20-letnia Paulina Maziarz została nową Miss Polski 2016        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="8" data-iwa-hash="15262" >
+                        
+
+
+            <a href="http://m.tipy.interia.pl/artykul_27082,jak-stosowac-zelatyne-na-bol-stawow.html" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066DOGCT7HUTKC-C424.jpg" alt="Istnieje proszek, który szybko i skutecznie zwalcza ból kości i stawów">
+                            </ins>
+        
+        <span>
+                        Istnieje proszek, który szybko i skutecznie zwalcza ból kości i stawów        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="9" data-iwa-hash="36462" >
+                        
+
+
+            <a href="http://swiatseriali.interia.pl/news/news-serialowy-przewodnik,nId,2316436" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066O63N6TNS1RR-C424.jpg" alt="„M jak miłość”: Została zwolniona z pracy? Wróciła tylko dzięki niemu!">
+                            </ins>
+        
+        <span>
+                        „M jak miłość”: Została zwolniona z pracy? Wróciła tylko dzięki niemu!        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="10" data-iwa-hash="31123" >
+                        
+
+
+            <a href="http://www.pomponik.pl/plotki/news-robert-janson-gdy-dotarlo-do-niego-co-sie-stalo-jego-zycie-s,nId,2317034" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066KVGOM4NYXS5-C424.jpg" alt="Gdy dotarło do niego, co się wydarzyło, jego życie stało się ruiną">
+                            </ins>
+        
+        <span>
+                        Gdy dotarło do niego, co się wydarzyło, jego życie stało się ruiną        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="11" data-iwa-hash="38139" >
+                        
+
+
+            <a href="http://facet.interia.pl/historia/news-jozef-unrug-po-agresji-wojsk-hitlera-zapomnial-niemieckiego,nId,2312129" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00065FK613ESRH45-C424.jpg" alt="Był niemieckim oficerem. Wybrał walkę przeciw Rzeszy">
+                            </ins>
+        
+        <span>
+                        Był niemieckim oficerem. Wybrał walkę przeciw Rzeszy        </span>
+    </a>
+
+                    </li>
+                                                                </ul>
+        </div>
+        <div class="nav" data-iwa-block="worthSee-nav" >
+                                                                                </div>
+    </div>
+
+    <div class="box  standart-news box-plotki" id="listbox_9" data-iwa-block="gossip">
+        
+    <h2 class="box-header" data-iwa-block="gossip_header" >
+        <ul class="service-link">
+                            <li data-iwa-item="1" data-iwa-hash="30602">
+                    <a href="http://m.pomponik.pl">                        <span>pomponik</span>
+                    </a>                </li>
+                    </ul>
+
+            </h2>
+
+        <div class="tile-wrap">
+            <ul class="tile-entries">
+                                                        <li class="tile-entries-item i-0" data-iwa-item="1" data-iwa-hash="20966" >
+                                <a class="tile-entries-link thumb"
+       href="http://www.pomponik.pl/plotki/news-agnieszka-wozniak-starak-czeka-ja-dluga-rozlaka-z-mezem,nId,2317168">
+                            <ins class="tile-entries-thumb">
+                                    <img src="/i/p.gif" class="tile-entries-img lazy"
+                         data-origin="http://i.iplsc.com/-/00061VPFWVPYOJNN-C450.jpg"
+                         alt="Magazyn pisze o rozstaniu Szulim i milionera">
+                            </ins>
+                <span class="tile-entries-title">
+                        Magazyn pisze o rozstaniu Szulim i milionera        </span>
+    </a>
+                    </li>
+                                                                            <li class="tile-entries-item i-1" data-iwa-item="2" data-iwa-hash="22673" >
+                                <a class="tile-entries-link thumb"
+       href="http://www.pomponik.pl/plotki/news-malgorzata-rozenek-po-nowym-roku-bedzie-jej-jeszcze-wiecej-w,nId,2317246">
+                            <ins class="tile-entries-thumb">
+                                    <img src="/i/p.gif" class="tile-entries-img lazy"
+                         data-origin="http://i.iplsc.com/-/00066OTWBHGUY8AR-C401.jpg"
+                         alt="Rozenek potwierdza najgorsze. Jednak to prawda!">
+                            </ins>
+                <span class="tile-entries-title">
+                        Rozenek potwierdza najgorsze. Jednak to prawda!        </span>
+    </a>
+                    </li>
+                                                                            <li class="tile-entries-item i-2" data-iwa-item="3" data-iwa-hash="30990" >
+                                <a class="tile-entries-link thumb"
+       href="http://www.pomponik.pl/plotki/news-magda-ogorek-ostro-o-zachowaniu-lisa-seksizm-i-mizoginia,nId,2317354">
+                            <ins class="tile-entries-thumb">
+                                    <img src="/i/p.gif" class="tile-entries-img lazy"
+                         data-origin="http://i.iplsc.com/-/00066PHRH58Q0RV7-C401.jpg"
+                         alt="Lis ją bardzo skrzywdził! Przerywa milczenie!">
+                            </ins>
+                <span class="tile-entries-title">
+                        Lis ją bardzo skrzywdził! Przerywa milczenie!        </span>
+    </a>
+                    </li>
+                                                                            <li class="tile-entries-item i-3" data-iwa-item="4" data-iwa-hash="19170" >
+                                <a class="tile-entries-link thumb"
+       href="kobieta/galeria,iAId,224467">
+                            <ins class="tile-entries-thumb">
+                                    <img src="/i/p.gif" class="tile-entries-img lazy"
+                         data-origin="http://i.iplsc.com/-/00066OPN4B867J4X-C401.jpg"
+                         alt="Chudnie w oczach. Czy to już choroba?!">
+                            </ins>
+                <span class="tile-entries-title">
+                        Chudnie w oczach. Czy to już choroba?!        </span>
+    </a>
+                    </li>
+                                                                            <li class="tile-entries-item i-4" data-iwa-item="5" data-iwa-hash="31098" >
+                                <a class="tile-entries-link thumb"
+       href="http://www.pomponik.pl/plotki/news-magdalena-frackowiak-i-alex-przetakiewicz-naprawde-sa-razem-,nId,2317170">
+                            <ins class="tile-entries-thumb">
+                                    <img src="/i/p.gif" class="tile-entries-img lazy"
+                         data-origin="http://i.iplsc.com/-/00066OGN549VNM87-C401.jpg"
+                         alt="Nowa zaskakująca para w polskim show-biznesie">
+                            </ins>
+                <span class="tile-entries-title">
+                        Nowa zaskakująca para w polskim show-biznesie        </span>
+    </a>
+                    </li>
+                                                </ul>
+        </div>
+                <div class="nav" data-iwa-block="gossip-nav">
+            <p class="see-more" data-iwa-item="1" data-iwa-hash="20689"><a class="serviceLink" href="http://m.pomponik.pl">Przejdź do serwisu <span>pomponik</span></a></p>
+        </div>
+            </div>
+    <div class="box  standart-news box-styl" id="listbox_10" data-iwa-block="lifestyle">
+        
+    <h2 class="box-header" data-iwa-block="lifestyle_header" >
+        <ul class="service-link">
+                            <li data-iwa-item="1" data-iwa-hash="66680">
+                                            <span>Styl życia</span>
+                                    </li>
+                    </ul>
+
+                    <ul class="additional-link">
+                                    <li>
+                        <a href="http://kobieta.interia.pl/horoskopy" data-iwa-item="2" data-iwa-hash="53514">Horoskopy</a>
+                    </li>
+                            </ul>
+            </h2>
+
+        <div class="wrap">
+            <ul class="entries">
+                                                        <li class="entries-item" data-iwa-item="1" data-iwa-hash="33294" >
+                        
+
+
+            <a href="http://www.styl.pl/zdrowie/video,vId,2199177" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/000665GKGKK2LVLF-C424.jpg" alt="Takie metody detoksykacji organizmu są niedopuszczalne">
+                            </ins>
+        
+        <span>
+                        Takie metody detoksykacji organizmu są niedopuszczalne        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="2" data-iwa-hash="21019" >
+                        
+
+
+            <a href="/kobieta/news,nId,2316394" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066DMM5KFFXD3B-C424.jpg" alt="Lepszy od czosnku i cytryny. Jedz go jak najczęściej!">
+                            </ins>
+        
+        <span>
+                        Lepszy od czosnku i cytryny. Jedz go jak najczęściej!        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="3" data-iwa-hash="34556" >
+                        
+
+
+            <a href="http://facet.interia.pl/styl-zycia/ciekawostki/video,vId,2201011" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066OOAF7NPM05P-C424.jpg" alt="Ten nóż kosztował 5 zł. Zrobił z niego śmiertelnie niebezpieczną broń!">
+                            </ins>
+        
+        <span>
+                        Ten nóż kosztował 5 zł. Zrobił z niego śmiertelnie niebezpieczną broń!        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="4" data-iwa-hash="23287" >
+                        
+
+
+            <a href="/mamdziecko/news,nId,2315636" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/000668PFE1YPQLTA-C424.jpg" alt="Pij ten napar codziennie, a efekty będą naprawdę zaskakujące">
+                            </ins>
+        
+        <span>
+                        Pij ten napar codziennie, a efekty będą naprawdę zaskakujące        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="5" data-iwa-hash="19422" >
+                        
+
+
+            <a href="/kobieta/news,nId,2316457" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066DZG7J51SW8C-C424.jpg" alt="Ten deser możesz jeść bez umiaru. Nie przytyjesz!">
+                            </ins>
+        
+        <span>
+                        Ten deser możesz jeść bez umiaru. Nie przytyjesz!        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="6" data-iwa-hash="17763" >
+                        
+
+
+            <a href="http://www.styl.pl/dom/news-katarzyna-dowbor-podpowiada-jak-udekorowac-taras-i-balkon,nId,2315361" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/0006654ML1COCQO6-C424.jpg" alt="Proste sposoby na dekorację ogrodu i balkonu">
+                            </ins>
+        
+        <span>
+                        Proste sposoby na dekorację ogrodu i balkonu        </span>
+    </a>
+
+                    </li>
+                                                                </ul>
+        </div>
+        <div class="nav" data-iwa-block="lifestyle-nav" >
+                                                                        <p class="see-more" data-iwa-item="1" data-iwa-hash="22619"><a class="serviceLink" href="//kobieta.interia.pl/">Przejdź do serwisu <span>KOBIETA</span></a></p>
+                <p class="see-more" data-iwa-item="2" data-iwa-hash="17947"><a class="serviceLink" href="//facet.interia.pl/">Przejdź do serwisu <span>FACET</span></a></p>
+                <p class="see-more" data-iwa-item="3" data-iwa-hash="31940"><a class="serviceLink" href="//www.styl.pl/">Przejdź do serwisu <span>STYL</span></a></p>
+                                    </div>
+    </div>
+
+<script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("art_spons_kobieta");
+ } catch(err) { }
+// ]]> -->
+</script>
+<script type="text/javascript">//<![CDATA[
+
+Inpl.Ad.onAd('art_spons_kobieta', function (isAd) {
+if(!isAd){
+return false;
+}
+var listData = Inpl.Sponsor({ action: {"boxId":"listbox_10","boxSingle":null,"typePlace":{"article":{"art_spons_kobieta":{"itemPosition":"1"},"logoText":"- Art. Spons.","urlMoreText":"Czytaj wi\u0119cej"},"link":{"art_spons_kobieta":{"itemPosition":"1"},"logoText":"- Link Spons.","urlMoreText":"Zobacz wi\u0119cej"}},"namePlace":"linkSpons","typeAction":"append","listTag":"UL","listClass":"entries","itemTag":"LI","itemClass":"entries-item","adsPlace":"art_spons_kobieta"},
+views: {"contentClass":"brief-content","titleTag":"a","photoClass":"C424"},
+renderer: Inpl.Sponsor.Links.Link,
+callback: function (listData) {
+listData && listData.gemiusPv ? gemius_hit(listData.gemiusPv) : null;
+listData && listData.clientPv ? document.write('' + listData.clientPv + '') : null;
+}
+});
+});
+//]]></script>    <div class="adplace ad" id="banner_kobieta_mezczyzna1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("banner_kobieta_mezczyzna");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('banner_kobieta_mezczyzna')) {
+document.getElementById('banner_kobieta_mezczyzna1').style.display='';
+}
+else {
+document.getElementById('banner_kobieta_mezczyzna1').style.display='none';
+}
+//]]></script>    <div class="adplace ad" id="banner_plotki1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("banner_plotki");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('banner_plotki')) {
+document.getElementById('banner_plotki1').style.display='';
+}
+else {
+document.getElementById('banner_plotki1').style.display='none';
+}
+//]]></script>    <div class="box  box-cooking" id="listbox_11" data-iwa-block="cooking">
+        
+    <h2 class="box-header" data-iwa-block="cooking_header" >
+        <ul class="service-link">
+                                                <li data-iwa-item="1" data-iwa-hash="89778" ><a href="http://www.smaker.pl/"><span>gotowanie</span></a></li>
+                                    </ul>
+
+            </h2>
+
+        <div class="wrap">
+            <ul class="entries">
+                                                        <li class="entries-item" data-iwa-item="1" data-iwa-hash="14856" >
+                        
+
+
+            <a href="http://smaker.pl/przepis-ciasto-pani-walewska,121963,trojansia.html" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066EJXK8GKJY88-C424.jpg" alt="Pani Walewska">
+                            </ins>
+        
+        <span>
+                        Pani Walewska        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="2" data-iwa-hash="35087" >
+                        
+
+
+            <a href="/kobieta/news,nId,2315185" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/000664KB6SGYF8UO-C424.jpg" alt="Pyszny i sycący - w sam raz na święta">
+                            </ins>
+        
+        <span>
+                        Pyszny i sycący - w sam raz na święta        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="3" data-iwa-hash="23892" >
+                        
+
+
+            <a href="http://www.styl.pl/kuchnia/news-nugat-z-migdalami,nId,2315652" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/000668POS59UJ545-C424.jpg" alt="Domowy smakuje jeszcze lepiej">
+                            </ins>
+        
+        <span>
+                        Domowy smakuje jeszcze lepiej        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="4" data-iwa-hash="42169" >
+                        
+
+
+            <a href="http://smaker.pl/przepis-kora-orzechowa,111762,izaa-a.html" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/00066EJZYKWX183Q-C424.jpg" alt="&quot;Kora orzechowa&quot;">
+                            </ins>
+        
+        <span>
+                        &quot;Kora orzechowa&quot;        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="5" data-iwa-hash="74210" >
+                        
+
+
+            <a href="/kobieta/news,nId,2315123" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/0006644PDJMHJBVK-C424.jpg" alt="Szybki, czekoladowy deser">
+                            </ins>
+        
+        <span>
+                        Szybki, czekoladowy deser        </span>
+    </a>
+
+                    </li>
+                                                                            <li class="entries-item" data-iwa-item="6" data-iwa-hash="14632" >
+                        
+
+
+            <a href="/kobieta/news,nId,2315921" class="thumb">
+                            <ins>
+                                    <img src="/i/p.gif" class="lazy" data-origin="http://i.iplsc.com/-/000669K22EU2PIDA-C424.jpg" alt="Dziecinnie proste">
+                            </ins>
+        
+        <span>
+                        Dziecinnie proste        </span>
+    </a>
+
+                    </li>
+                                                                </ul>
+        </div>
+        <div class="nav" data-iwa-block="cooking-nav" >
+                    
+                        <p class="see-more" data-iwa-item="1" data-iwa-hash="82320"><a class="serviceLink" href="http://www.smaker.pl/">Przejdź do serwisu <span>gotowanie</span></a></p>
+                                        <p class="see-more" data-iwa-item="2" data-iwa-hash="31940"><a class="serviceLink" href="//www.styl.pl/">Przejdź do serwisu <span>STYL</span></a></p>
+                </div>
+    </div>
+
+<div class="gallery-list box gallery-video" id="main-gallery-box164783" data-iwa-block="video" >
+    
+    <h2 class="box-header" data-iwa-block="video_header" >
+        <ul class="service-link">
+                                                <li data-iwa-item="1" data-iwa-hash="20934" ><a href="/interia-tv"><span>video</span></a></li>
+                                    </ul>
+
+            </h2>
+        <div class="gallery-list-wrapper swipe" id="main-gallery-list164783">
+        <div class="swipe-wrap">
+							<div class="gallery-list-row">
+					<p class="gallery-list-row-wrapper" data-iwa-item="1" data-iwa-hash="39959">
+                        
+						<a class="list-image-link" href="interia-tv/video,vId,2202854">
+                            <img class="list-image" src="http://i.iplsc.com/-/00066PMLMBOII1M1-C417.jpg" alt="Znany lekarz ostro o swoich kolegach po fachu! "Słabeusze"" />
+                        </a>
+
+						<a class="list-link" href="interia-tv/video,vId,2202854">
+                            Znany lekarz ostro o swoich kolegach po fachu! "Słabeusze"                        </a>
+
+                        					</p>
+				</div>
+							<div class="gallery-list-row">
+					<p class="gallery-list-row-wrapper" data-iwa-item="2" data-iwa-hash="42230">
+                        
+						<a class="list-image-link" href="interia-tv/video,vId,2200744">
+                            <img class="list-image" src="http://i.iplsc.com/-/00066E1LY5SJFG0N-C417.jpg" alt="Bójka braci. Wtedy pojawił się pies" />
+                        </a>
+
+						<a class="list-link" href="interia-tv/video,vId,2200744">
+                            Bójka braci. Wtedy pojawił się pies                        </a>
+
+                        					</p>
+				</div>
+							<div class="gallery-list-row">
+					<p class="gallery-list-row-wrapper" data-iwa-item="3" data-iwa-hash="36826">
+                        
+						<a class="list-image-link" href="interia-tv/video,vId,2201036">
+                            <img class="list-image" src="http://i.iplsc.com/-/00066PTLVB0017VU-C417.jpg" alt="Wziął rozbieg, skoczył i... Nie uwierzycie!" />
+                        </a>
+
+						<a class="list-link" href="interia-tv/video,vId,2201036">
+                            Wziął rozbieg, skoczył i... Nie uwierzycie!                        </a>
+
+                        					</p>
+				</div>
+			        </div>
+    </div>
+    <ul class="gallery-controll-wrapper">
+        <li class="controll-button less"></li>
+        <li class="controll-button more"></li>
+    </ul>
+</div>
+
+<script type="text/javascript">//<![CDATA[
+
+x$(window).on('load', function(){
+(function () {
+var btn ='';
+var mainGallerySwipe = GallerySwipe( document.querySelector('#main-gallery-list164783'),
+{startSlide: 0,
+continuous: true,
+transitionEnd : function(index){
+iwa('trackEvent','video',btn,'ekran_' + (parseInt(index)+1));
+}
+});
+x$('#main-gallery-box164783 .gallery-controll-wrapper .less').on('click',function(){
+btn='strzalka_w_lewo';
+mainGallerySwipe.prev();
+});
+x$('#main-gallery-box164783 .gallery-controll-wrapper .more').on('click',function(){
+btn='strzalka_w_prawo';
+mainGallerySwipe.next();
+});
+})();});
+//]]></script><div id="lotto-numbers-lotto-gamelotto-0" class="box lotto-box" data-iwa-block="lotto-box">
+    <header class="lotto-box-header">
+        <h2 class="title">Wyniki lotto</h2>
+        <a href="/lotto" class="more-link"data-iwa-item="1" data-iwa-hash="25363">Wyniki pozostałych gier »</a>
+    </header>
+
+    <a href="/lotto" class="lotto-box-content" data-iwa-item="1" data-iwa-hash="10291">
+        <header class="date">
+            <strong>Sobota</strong>, 03.12.2016, 22:15        </header>
+
+        <div class="wgt-lotto-numbers-group">
+            <div class="lotto-numbers">
+                <ul>
+                                            <li class="number">
+                            <span class="number-wrapper">8</span>
+                        </li>
+                                            <li class="number">
+                            <span class="number-wrapper">22</span>
+                        </li>
+                                            <li class="number">
+                            <span class="number-wrapper">29</span>
+                        </li>
+                                            <li class="number">
+                            <span class="number-wrapper">38</span>
+                        </li>
+                                            <li class="number">
+                            <span class="number-wrapper">41</span>
+                        </li>
+                                            <li class="number">
+                            <span class="number-wrapper">47</span>
+                        </li>
+                                    </ul>
+            </div>
+        </div>
+    </a>
+</div>
+<div class="box adsee " id="adsee">
+    
+    <h2 class="box-header" data-iwa-block="_header" >
+        <ul class="service-link">
+                            <li data-iwa-item="1" data-iwa-hash="65754">
+                                            <span>Oferty Dnia</span>
+                                    </li>
+                    </ul>
+
+            </h2>
+    <div class="swipe" id="ad-slider">
+        <div class="swipe-wrap"></div>
+        <nav>
+          <ul id="ad-slider-position">
+            <li class="prev"></li>
+            <li class="next"></li>
+          </ul>
+        </nav>
+    </div>
+</div>
+
+
+    
+
+<style>
+.box.adsee .swipe {
+  overflow: hidden;
+  xvisibility: hidden;
+  position: relative;
+}
+.box.adsee .swipe-wrap {
+  overflow: hidden;
+  position: relative;
+}
+.box.adsee .swipe-wrap > div {
+  float:left;
+  width:100%;
+  position: relative;
+}
+
+.box.adsee .service-link span {background:none;}
+
+#ad-slider {
+    margin: 10px 15px 0 15px;
+}
+#ad-slider nav {
+    margin-top: 15px;
+}
+
+#ad-slider-position {
+    height: 30px;
+    position: relative;
+    text-align: center;
+}
+
+#ad-slider-position li.slide {
+    display: inline-block;
+    border-style: solid;
+    border-color: #E4E4E4;
+    border-width: 6px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
+    width: 0;
+    height: 0;
+    cursor: pointer;
+    margin: 0 3px;
+}
+
+#ad-slider-position li.slide.on {
+    border-color: #0277C6;
+}
+
+#ad-slider-position li.prev {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 0px;
+    height: 0px;
+    cursor: pointer;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent #0277C6 transparent transparent;
+}
+
+#ad-slider-position li.next {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 0px;
+    height: 0px;
+    cursor: pointer;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent transparent transparent #0277C6;
+}
+
+
+#ad-slider .frame {
+    height: 340px;
+    position: relative;
+}
+
+.news .adsee .box-header {
+    border: none;
+}
+
+.box.adsee {
+    padding-bottom: 20px;
+}
+
+.box.adsee iframe {
+    width: 100%;
+    height: 100%
+}
+
+.box.adsee .cover {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.offer {
+    overflow: hidden;
+    float: left;
+    height: 50%;
+    width: 50%;
+}
+
+@media all and (min-width: 860px) {
+    .news #ad-slider .frame {
+        height: 340px;
+    }
+}
+@media all and (min-width: 460px) and (max-width: 859px) {
+    .news #ad-slider .frame {
+        height: 220px;
+    }
+}
+@media all and (min-width: 460px) and (max-width: 640px),
+       all and (min-width: 919px)
+{
+    #ad-slider .frame {
+        height: 220px;
+    }
+}
+@media all and (max-width: 459px) {
+    .news #ad-slider .frame {
+        height: 340px;
+    }
+}
+</style>
+
+<div class="box standart-news box-apps box-apps box-apps-ios" id="box_apps_1" data-iwa-block="apps-box">
+    <h2 class="box-header">
+        <ul class="service-link">
+            <li><span>Nasze aplikacje</span></li>
+        </ul>
+    </h2>
+
+    <div class="wrap">
+        <ul class="entries">
+			            <li>
+                <a href="https://itunes.apple.com/app/apple-store/id548261668?pt=584558&ct=minteria_stopka&mt=8" class="thumb" data-iwa-item="0" data-iwa-hash="44688">
+                <ins>
+                <img src="http://i.iplsc.com/-/0003I6BNL9K4V2M0-C2.png" class="lazy" data-origin="" alt="Fakty">
+                </ins><span>
+                Fakty                </span>    </a>
+            </li>
+			            <li>
+                <a href="https://itunes.apple.com/app/apple-store/id451131373?pt=584558&ct=minteria_stopka&mt=8" class="thumb" data-iwa-item="1" data-iwa-hash="42058">
+                <ins>
+                <img src="http://i.iplsc.com/-/0003I6BQG7NRSSI9-C2.png" class="lazy" data-origin="" alt="Poczta">
+                </ins><span>
+                Poczta                </span>    </a>
+            </li>
+			            <li>
+                <a href="https://itunes.apple.com/app/apple-store/id796406591?pt=584558&ct=minteria_stopka&mt=8" class="thumb" data-iwa-item="2" data-iwa-hash="92735">
+                <ins>
+                <img src="http://i.iplsc.com/-/0003I6BSLJX1DTYG-C2.png" class="lazy" data-origin="" alt="Sport">
+                </ins><span>
+                Sport                </span>    </a>
+            </li>
+			            <li>
+                <a href="https://itunes.apple.com/app/apple-store/id1111490151?pt=584558&ct=minteria_stopka&mt=8" class="thumb" data-iwa-item="3" data-iwa-hash="30497">
+                <ins>
+                <img src="http://i.iplsc.com/-/0005TB7LBJSCBKY4-C2.png" class="lazy" data-origin="" alt="Okazjum - gazetki promocyjne">
+                </ins><span>
+                Okazjum - gazetki promocyjne                </span>    </a>
+            </li>
+			        </ul>
+    </div>
+</div><div class="box standart-news box-apps box-apps box-apps-android" id="box_apps_2" data-iwa-block="apps-box">
+    <h2 class="box-header">
+        <ul class="service-link">
+            <li><span>Nasze aplikacje</span></li>
+        </ul>
+    </h2>
+
+    <div class="wrap">
+        <ul class="entries">
+			            <li>
+                <a href="https://play.google.com/store/apps/details?id=pl.interia.news&referrer=utm_source%3Dminteria%26utm_medium%3Dstopka%26utm_campaign%3Dstopka%26anid%3Dadmob" class="thumb" data-iwa-item="0" data-iwa-hash="25737">
+                <ins>
+                <img src="http://i.iplsc.com/-/0003I6ATIGQDM3KM-C2.png" class="lazy" data-origin="" alt="Fakty">
+                </ins><span>
+                Fakty                </span>    </a>
+            </li>
+			            <li>
+                <a href="https://play.google.com/store/apps/details?id=pl.interia.poczta_next&referrer=utm_source%3Dminteria%26utm_medium%3Dstopka%26utm_campaign%3Dstopka%26anid%3Dadmob" class="thumb" data-iwa-item="1" data-iwa-hash="40640">
+                <ins>
+                <img src="http://i.iplsc.com/-/0005TBHOTW3O82KR-C2.png" class="lazy" data-origin="" alt="Nowa Poczta Interia">
+                </ins><span>
+                Nowa Poczta Interia                </span>    </a>
+            </li>
+			            <li>
+                <a href="https://play.google.com/store/apps/details?id=pl.interia&referrer=utm_source%3Dminteria%26utm_medium%3Dstopka%26utm_campaign%3Dstopka%26anid%3Dadmob" class="thumb" data-iwa-item="2" data-iwa-hash="29438">
+                <ins>
+                <img src="http://i.iplsc.com/-/0005TBHX4EO83SP9-C2.png" class="lazy" data-origin="" alt="Poczta Interia">
+                </ins><span>
+                Poczta Interia                </span>    </a>
+            </li>
+			            <li>
+                <a href="https://play.google.com/store/apps/details?id=pl.interia.sport&referrer=utm_source%3Dminteria%26utm_medium%3Dstopka%26utm_campaign%3Dstopka%26anid%3Dadmob" class="thumb" data-iwa-item="3" data-iwa-hash="37766">
+                <ins>
+                <img src="http://i.iplsc.com/-/0003I6AO3BAGJ9R2-C2.png" class="lazy" data-origin="" alt="Sport">
+                </ins><span>
+                Sport                </span>    </a>
+            </li>
+			            <li>
+                <a href="https://play.google.com/store/apps/details?id=pl.interia.parasol&referrer=utm_source%3Dminteria%26utm_medium%3Dstopka%26utm_campaign%3Dstopka%26anid%3Dadmob" class="thumb" data-iwa-item="4" data-iwa-hash="39796">
+                <ins>
+                <img src="http://i.iplsc.com/-/00060EDRJSA2FYM6-C2.png" class="lazy" data-origin="" alt="Weź parasol">
+                </ins><span>
+                Weź parasol                </span>    </a>
+            </li>
+			            <li>
+                <a href="https://play.google.com/store/apps/details?id=pl.interia.smaker&referrer=utm_source%3Dminteria%26utm_medium%3Dstopka%26utm_campaign%3Dstopka%26anid%3Dadmob" class="thumb" data-iwa-item="5" data-iwa-hash="33440">
+                <ins>
+                <img src="http://i.iplsc.com/-/0003T02W0BM73TX9-C2.png" class="lazy" data-origin="" alt="Smaker - przepisy, dieta">
+                </ins><span>
+                Smaker - przepisy, dieta                </span>    </a>
+            </li>
+			            <li>
+                <a href="https://play.google.com/store/apps/details?id=pl.interia.okazjum&referrer=utm_source%3Dminteria%26utm_medium%3Dstopka%26utm_campaign%3Dstopka%26anid%3Dadmob" class="thumb" data-iwa-item="6" data-iwa-hash="11502">
+                <ins>
+                <img src="http://i.iplsc.com/-/0005TB6CCCM4O3ER-C2.png" class="lazy" data-origin="" alt="Okazjum - gazetki promocyjne">
+                </ins><span>
+                Okazjum - gazetki promocyjne                </span>    </a>
+            </li>
+			            <li>
+                <a href="https://play.google.com/store/apps/details?id=pl.interia.czateria&referrer=utm_source%3Dminteria%26utm_medium%3Dstopka%26utm_campaign%3Dstopka%26anid%3Dadmob" class="thumb" data-iwa-item="7" data-iwa-hash="35974">
+                <ins>
+                <img src="http://i.iplsc.com/-/000274RQ1SXCVEDM-C2.jpg" class="lazy" data-origin="" alt="CZATeria">
+                </ins><span>
+                CZATeria                </span>    </a>
+            </li>
+			        </ul>
+    </div>
+</div>    <div class="adplace ad" id="banner_najczesciej_czytane1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("banner_najczesciej_czytane");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('banner_najczesciej_czytane')) {
+document.getElementById('banner_najczesciej_czytane1').style.display='';
+}
+else {
+document.getElementById('banner_najczesciej_czytane1').style.display='none';
+}
+//]]></script>                </div>
+            
+                            <div class="main-secondary">
+                        <div class="adplace" id="m_dol_srodek1" style="display: none">
+        <h4><span>Reklama</span></h4>
+        <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("m_dol_srodek");
+ } catch(err) { }
+// ]]> -->
+</script>    </div>
+
+<script type="text/javascript">//<![CDATA[
+
+if(Inpl.Ad.isAd('m_dol_srodek')) {
+document.getElementById('m_dol_srodek1').style.display='';
+}
+else {
+document.getElementById('m_dol_srodek1').style.display='none';
+}
+//]]></script>    <div class="box ad promocyjni_gazetka_dol" id="promocyjni_gazetka_dol1">
+        <div class="boxBegin"></div>
+        <div class="boxHeader">
+                            <h3>Reklama</h3>
+                    </div>
+        <div class="boxBody">
+            <script type="text/javascript">
+<!-- <![CDATA[
+try { 
+Inpl.Ad.insertAd("promocyjni_gazetka_dol");
+ } catch(err) { }
+// ]]> -->
+</script>        </div>
+        <div class="boxEnd"></div>
+    </div>
+
+        
+
+                </div>
+                    </div>
+
+                    <div class="page-footer">
+                
+<div class="menu-footer" id="menu-footer">
+    <section class="menu-section" data-iwa-block="footer">
+        <nav class="services">
+                    <p class="menu-row" data-iwa-item="1" data-iwa-hash="27446">
+                                <a href="/" class="menu-link">
+                    Strona główna                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="2" data-iwa-hash="30201">
+                                <a href="http://fakty.interia.pl/" class="menu-link">
+                    Fakty                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="3" data-iwa-hash="40305">
+                                <a href="/biznes" class="menu-link">
+                    Biznes                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="4" data-iwa-hash="36787">
+                                <a href="http://sport.interia.pl/" class="menu-link">
+                    Sport                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="5" data-iwa-hash="13985">
+                                <a href="/zkarnego" class="menu-link">
+                    Z karnego                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="6" data-iwa-hash="11562">
+                                <a href="http://m.interia.pl/serwis/forum/" class="menu-link">
+                    Forum                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="7" data-iwa-hash="20494">
+                                <a href="/motoryzacja" class="menu-link">
+                    Motoryzacja                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="8" data-iwa-hash="17776">
+                                <a href="/magazynauto" class="menu-link">
+                    Magazynauto                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="9" data-iwa-hash="20056">
+                                <a href="/raportdrogowy" class="menu-link">
+                    Raport drogowy                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="10" data-iwa-hash="12221">
+                                <a href="/poboczem" class="menu-link">
+                    Poboczem                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="11" data-iwa-hash="30655">
+                                <a href="http://nt.interia.pl/" class="menu-link">
+                    Nowe technologie                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="12" data-iwa-hash="36793">
+                                <a href="/interia-tv" class="menu-link">
+                    Interia.TV                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="13" data-iwa-hash="85507">
+                                <a href="http://mobtech.interia.pl/" class="menu-link">
+                    Mobtech                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="14" data-iwa-hash="31921">
+                                <a href="http://gry.interia.pl/" class="menu-link">
+                    Gry                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="15" data-iwa-hash="29357">
+                                <a href="http://strefagier.m.interia.pl/" class="menu-link">
+                    Graj on-line                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="16" data-iwa-hash="25123">
+                                <a href="http://m.gry-na-fony.pl/" class="menu-link">
+                    Gry na fony                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="17" data-iwa-hash="34922">
+                                <a href="http://muzyka.interia.pl/" class="menu-link">
+                    Muzyka                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="18" data-iwa-hash="57816">
+                                <a href="http://film.interia.pl/" class="menu-link">
+                    Film                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="19" data-iwa-hash="24786">
+                                <a href="//swiatseriali.interia.pl" class="menu-link">
+                    Świat Seriali                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="20" data-iwa-hash="31019">
+                                <a href="http://kobieta.interia.pl/" class="menu-link">
+                    Kobieta                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="21" data-iwa-hash="30181">
+                                <a href="//www.styl.pl/" class="menu-link">
+                    Styl                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="22" data-iwa-hash="10765">
+                                <a href="http://mamdziecko.interia.pl/" class="menu-link">
+                    Mam dziecko                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="23" data-iwa-hash="16008">
+                                <a href="/nowa-historia" class="menu-link">
+                    Nowa historia                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="24" data-iwa-hash="35511">
+                                <a href="/dzikikraj" class="menu-link">
+                    Dziki kraj                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="25" data-iwa-hash="13265">
+                                <a href="http://www.pomponik.pl/" class="menu-link">
+                    Pomponik                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="26" data-iwa-hash="13967">
+                                <a href="/innowacje" class="menu-link">
+                    Innowacje                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="27" data-iwa-hash="35124">
+                                <a href="http://polska2041.pl" class="menu-link">
+                    Polska2041                </a>
+            </p>
+                    <p class="menu-row" data-iwa-item="28" data-iwa-hash="25412">
+                                <a href="http://facet.interia.pl/" class="menu-link">
+                    Facet                </a>
+            </p>
+                </nav>
+    </section>
+</div>
+<div id="footer">
+    <div id="version">
+        <div class="links">
+            <a class="version-link link-classic leave-no-check" href="http://mdetect.interia.pl/switch-to-desktop?url=%2F%2Fwww.interia.pl">Wersja klasyczna</a>
+            <a class="version-link link-advert" href="http://m.technoad.net/">Reklama</a>
+        </div>
+    </div>
+
+    <div id="copy">
+        <p>
+            <a href="http://firma.interia.pl/polityka-cookies" class="cookie-policy-link">Polityka Cookies</a>
+            <a class="link-statute" href="http://firma.interia.pl/dzialalnosc/regulamin">Regulamin</a>
+        </p>
+        <p>Copyright &copy; 1999-2016 INTERIA.PL</p>
+    </div>
+
+</div>            </div>
+        
+    </div>
+
+<script type="text/javascript">
+    //<!--
+
+x$(window).on('load', function(){
+if(typeof jQuery != 'undefined' && typeof jQuery.parseJSON == 'undefined'){jQuery.parseJSON  = function(s){return JSON.parse(s);}}
+if( Inpl.Mobile.isUserLogged() ) {
+var link = '//mobi.interia.pl/wyloguj';
+var uName = Inpl.Mobile.Cookie.read('UEMAIL');
+var userNameObj = '<span class="social-name">'+unescape(uName)+'</span>',
+userLogoutLink = '<a href="'+link+'?referer='+escape(document.location)+'" class="social-link">wyloguj</a>';
+x$(".main-menu .social").html("bottom", userNameObj+userLogoutLink).setStyle('display','block');
+x$(window).fire("resize");
+}});    //-->
+</script>
+<script type="text/javascript" src="/j/swipe-be6b1f7286eb82bde743a0c171be228b.js"></script>
+<script type="text/javascript" src="/j/lazyloader-35ed8656c9c94ee33949e6830ca2ce15.js"></script>
+<script type="text/javascript" src="/j/xui.lazyLoad-6d4e2c60232a916eb3093d81c88bb6fd.js"></script>
+<script type="text/javascript" src="/j/applnButton-8f8d3e173109ec1e2ca533e0532093ad.js"></script>
+<script type="text/javascript" src="/j/iwaScrollMap.js"></script>
+<script type="text/javascript">
+    //<!--
+
+// detekcja pointerEvents
+var featuredSelect =(function(){
+var element = document.createElement('x'), documentElement = document.documentElement, getComputedStyle = window.getComputedStyle, supports;
+if(!('pointerEvents' in element.style)){
+return false;
+}
+element.style.pointerEvents = 'auto';
+element.style.pointerEvents = 'x';
+documentElement.appendChild(element);
+supports = getComputedStyle && getComputedStyle(element, '').pointerEvents === 'auto';
+documentElement.removeChild(element);
+return !!supports;
+})();
+
+if ( featuredSelect ) {
+x$( '.weather-select' ).addClass( 'featured' );
+}    //-->
+</script>
+<script type="text/javascript" src="/j/gallerySwipe-3de4ba07d966ecc0ac1c6dc5e6df993e.js"></script>
+<script type="text/javascript">
+    //<!--
+
+x$(window).on('load', function(){
+var framesCount = 0;
+if( Inpl.Ad.isAd('box_ec') ) {
+x$('#adsee').find('.swipe-wrap').html('bottom','<div class="frame" data-frame="1"></div>');
+x$('#ad-slider-position').find('.next').html('before','<li class="slide"></li>');
+framesCount++;
+}
+if( Inpl.Ad.isAd('box_ec2') ) {
+x$('#adsee').find('.swipe-wrap').html('bottom','<div class="frame" data-frame="2"></div>');
+x$('#ad-slider-position').find('.next').html('before','<li class="slide"></li>');
+framesCount++;
+}
+if( Inpl.Ad.isAd('box_ec3') ) {
+x$('#adsee').find('.swipe-wrap').html('bottom','<div class="frame" data-frame="3"></div>');
+x$('#ad-slider-position').find('.next').html('before','<li class="slide"></li>');
+framesCount++;
+}
+if( framesCount == 0 ) {
+x$('#adsee').css({display:'none'});
+} else if( framesCount == 1 ) {
+x$('#ad-slider-position').css({display:'none'});
+} else {
+x$( x$('#ad-slider-position').find('.slide')[0] ).addClass('on');
+}
+
+window.adSeeMask = function(frame, offers) {
+var fr = x$('#adsee .frame[data-frame="'+frame+'"]').find('.cover');
+x$(offers).each(function(o){
+var href = x$(o).find('a').attr('href')[0];
+x$(fr).html('bottom','<a href="'+href+'" target="_blank" class="offer"></a>');
+});
+/*zalozenie ze tylko 1 box ec bedzie na stronie */
+var areFramesLoaded = document.querySelectorAll('.frame[data-frame-loaded="1"]').length == 3,
+countOffers = document.querySelectorAll('.frame .offer').length;
+if (!offers.length) {
+if (console) {
+console.warn('Brak ofert', frame, offers.length);
+}
+if (areFramesLoaded && (countOffers == 0) ) {
+document.getElementById('adsee').style.display = 'none';
+} else {
+addSeeSwipe.next();
+}
+}
+}
+function getFrame(cnt) {
+var nr = x$(cnt).attr("data-frame")[0];
+var loaded = x$(cnt).attr("data-frame-loaded")[0];
+var hash = /^#inpltesterad=[\d\w]+$/i.test(location.hash) ? location.hash : '';
+if( ! loaded ) {
+try {
+x$(cnt).html( 'bottom', '<iframe id="iframe'+nr+'" src="/adsee/'+ nr + ',pid,main' + hash+'" allowtransparency="true" frameborder="0" scrolling="no"></iframe><div class="cover"></div>' );
+} catch(e) {}
+}
+}
+
+var getSlide = function( index, elem ) {
+if( ! x$(elem).attr('data-frame-loaded')[0] ) {
+getFrame( elem );
+x$(elem).attr('data-frame-loaded',1);
+}
+}
+var addSeeSwipeCallback = function(index, elem) {
+x$("#ad-slider-position li.slide").removeClass("on");
+x$( x$("#ad-slider-position li.slide")[index] ).addClass("on");
+getSlide( index, elem );
+}
+
+getSlide( 0, x$('#adsee .frame')[0] );
+
+var addSeeSwipe = Swipe( x$('#ad-slider')[0], {startSlide: 0,callback: addSeeSwipeCallback } );
+x$("#ad-slider-position li.slide").each(function(elem,index,set){
+x$(elem).on("click",function(){
+addSeeSwipe.slide( index, 300 );
+addSeeSwipe.stop();
+});
+});
+
+x$("#ad-slider-position li.prev").on("click",function(){
+addSeeSwipe.prev();
+});
+
+x$("#ad-slider-position li.next").on("click",function(){
+addSeeSwipe.next();
+});});    //-->
+</script>
+<script type="text/javascript" src="/j/xui.appsswitcher.js"></script>
+<script type="text/javascript" src="http://w.iplsc.com/internal/inpl.cookiepolicy/1.0.1/inpl.cookiepolicy.min.js"></script>
+<script type="text/javascript">
+    //<!--
+
+x$(window).on('load', function(){
+if (typeof jQuery !== "undefined") {
+if (!jQuery('#promocyjni_gazetka_dol1').is('.hidden')) {
+if(Inpl.Ad.isAd('promocyjni_gazetka_dol')) {
+jQuery('#promocyjni_gazetka_dol1').show();
+}
+else {
+jQuery('#promocyjni_gazetka_dol1').hide();
+}
+}
+}});    //-->
+</script>
+<script type="text/javascript" src="/j/common-66a06882cef112d3ccfa99a65024f6bd.js"></script>
+<script type="text/javascript" src="/j/mainNavigation-c4982850cabf11d1ce055e03b95b2bd1.js"></script>
+<script type="text/javascript" src="/j/foreignLinks-4c2c873c632d50b68da3a0f561491e6d.js"></script>
+</body>
+</html>

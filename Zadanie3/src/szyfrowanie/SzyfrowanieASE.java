@@ -1,5 +1,7 @@
 package szyfrowanie;
 
+import java.io.FileOutputStream;
+import java.io.IOException;
 import java.security.InvalidKeyException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -15,6 +17,22 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class SzyfrowanieASE {
 
+	public String inp;
+	public String enc;
+	public String dec;
+	
+	public String getInp() {
+		return inp;
+	}
+
+	public String getEnc() {
+		return enc;
+	}
+
+	public String getDec() {
+		return dec;
+	}
+
 	public void szyfrowanie(String message, String key) throws NoSuchPaddingException, InvalidKeyException,
 			IllegalBlockSizeException, BadPaddingException, NoSuchProviderException, NoSuchAlgorithmException {
 
@@ -29,22 +47,31 @@ public class SzyfrowanieASE {
 		
 		byte[] encrypted = encrypt(sKeySpec, input, cipher);
 		byte[] decrypted = decrypted(sKeySpec, input, cipher, encrypted);
-		System.out.println("co chcesz zrobic \n 1) szyfrowanie \n 2) deszyfrowanie");
-		//Scanner scan = new Scanner(System.in);
-		String wybor = "1";
-		switch(wybor)
-		{
-		case "1":
-			System.out.println("hello");
-			break;
-		case "2":
-			break;
-		}
-		print(input);
-		print(encrypted);
-		print(decrypted);
-		System.out.println(Arrays.equals(input, decrypted));
+
+		FileOutputStream fos;
 		
+		try
+		{
+			//print(input);
+			inp = new String(input);
+			
+			//print(encrypted);
+			enc = new String(encrypted);
+			fos = new FileOutputStream("encrypted.txt");
+			fos.write(encrypted);
+			fos.close();
+			
+			//print(decrypted);
+			dec = new String(decrypted);
+			fos = new FileOutputStream("decrypted.txt");
+			fos.write(decrypted);
+			fos.close();
+		}
+		catch(IOException e)
+		{
+			
+		}
+		System.out.println(Arrays.equals(input, decrypted));
 	}
 	
 	public static void print(byte[] b) {

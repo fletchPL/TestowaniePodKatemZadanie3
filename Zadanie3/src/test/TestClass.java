@@ -28,7 +28,9 @@ public class TestClass
 		try {
 			
 			szyfrowanie.szyfrowanie(fileContent,pass );
-			
+			System.out.println(szyfrowanie.getInp());
+			System.out.println(szyfrowanie.getDec());
+			System.out.println(szyfrowanie.getEnc());
 		} catch (InvalidKeyException | NoSuchPaddingException | IllegalBlockSizeException | BadPaddingException e) {
 			
 			e.printStackTrace();
