@@ -35,7 +35,7 @@ public class TestClass
 			
 			e.printStackTrace();
 		}
-		
+		scan.close();
 	}
 
 }
