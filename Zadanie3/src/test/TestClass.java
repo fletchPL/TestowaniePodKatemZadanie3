@@ -18,7 +18,7 @@ public class TestClass
 
 	public static void main(String[] args) throws NoSuchProviderException, NoSuchAlgorithmException 
 	{
-		//String message = "Moja wiadomoœæ jest bardzo fajna i d³uga";
+		
 		SzyfrowanieASE szyfrowanie = new SzyfrowanieASE();
 		System.out.println("Podaj klucz: ");
 		Scanner scan = new Scanner(System.in);
